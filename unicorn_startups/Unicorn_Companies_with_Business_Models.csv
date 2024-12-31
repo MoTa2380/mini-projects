@@ -1,0 +1,1253 @@
+Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors,Business Model
+SpaceX,$350,12/1/2012,United States,Hawthorne,Industrials,"Founders Fund, Draper Fisher Jurvetson, Rothenberg Ventures",B2B
+ByteDance,$300,4/7/2017,China,Beijing,Media & Entertainment,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, SoftBank Group",B2C
+OpenAI,$157,7/22/2019,United States,San Francisco,Enterprise Tech,"Khosla Ventures, Thrive Capital, Sequoia Capital",B2B
+Stripe,$70,1/23/2014,United States,San Francisco,Financial Services,"Khosla Ventures, LowercaseCapital, capitalG",B2B
+SHEIN,$66,7/3/2018,Singapore,,Consumer & Retail,"Tiger Global Management, Sequoia Capital China, Shunwei Capital Partners",B2C
+Databricks,$62,2/5/2019,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, New Enterprise Associates, Battery Ventures",B2B
+xAI,$50,5/26/2024,United States,Burlingame,Enterprise Tech,"Sequoia Capital, Andreessen Horowitz, VY Capital",B2B
+Revolut,$45,4/26/2018,United Kingdom,London,Financial Services,"Index Ventures, DST Global, Ribbit Capital",B2B
+Canva,$32,1/8/2018,Australia,Surry Hills,Enterprise Tech,"Sequoia Capital China, Blackbird Ventures, Matrix Partners",B2B
+Fanatics,$31,6/6/2012,United States,Jacksonville,Consumer & Retail,"SoftBank Group, Andreessen Horowitz, Temasek Holdings",B2C
+Epic Games,$22.5,10/26/2018,United States,Cary,Media & Entertainment,"Tencent Holdings, KKR, Smash Ventures",B2C
+Chime,$25,3/5/2019,United States,San Francisco,Financial Services,"Forerunner Ventures, Crosslink Capital, Homebrew",B2B
+CoreWeave,$23,4/20/2023,United States,Roseland,Enterprise Tech,Magnetar Capital,B2B
+Miro,$17.50,1/5/2022,United States,San Francisco,Enterprise Tech,"Accel, AltaIR Capital, Technology Crossover Ventures",B2B
+Xiaohongshu,$17,3/31/2016,China,Shanghai,Media & Entertainment,"GGV Capital, ZhenFund, Tencent",B2C
+Anthropic,$16.05,2/3/2023,United States,San Francisco,Enterprise Tech,Google,B2B
+Yuanfudao,$15.50,5/31/2017,China,Beijing,Consumer & Retail,"Tencent Holdings, Warbug Pincus, IDG Capital",B2C
+DJI Innovations,$15,1/23/2015,China,Shenzhen,Industrials,"Accel Partners, Sequoia Capital",B2B
+Discord,$15,4/20/2018,United States,San Francisco,Media & Entertainment,"Benchmark, Greylock Partners, Tencent Holdings",B2C
+Gopuff,$15,10/8/2020,United States,Philadelphia,Consumer & Retail,"Accel, SoftBank Group, Anthos Capital",B2C
+Yuanqi Senlin,$15,3/1/2020,China,Beijing,Consumer & Retail,"Sequoia Capital China, Longfor Capitalm, Gaorong Capital",B2C
+Ripple,$15,12/20/2019,United States,San Francisco,Financial Services,"IDG Capital, Venture51, Lightspeed Venture Partners",B2B
+Klarna,$14.5,12/12/2011,Sweden,Stockholm,Financial Services,"Institutional Venture Partners, Sequoia Capital, General Atlantic",B2B
+Anduril,$14,9/11/2019,United States,Irvine,Industrials,"Andreessen Horowitz, Founders Fund, Revolution Ventures",B2B
+Scale,$13.8,8/5/2019,United States,San Francisco,Enterprise Tech,"Accel, Y Combinator, Index Ventures",B2B
+Plaid,$13.50,12/11/2018,United States,San Francisco,Financial Services,"New Enterprise Associates, Spar Capital, Index Ventures",B2B
+Rippling,$13.5,8/4/2020,United States,San Francisco,Enterprise Tech,"Initialized Capital, Y Combinator, Kleiner Perkins Caufield & Byers",B2B
+OpenSea,$13.30,7/20/2021,United States,New York,Media & Entertainment,"Andreessen Horowitz, Thirty Five Ventures, Sound Ventures",B2C
+Celonis,$13,6/26/2018,Germany,Munich,Enterprise Tech,"Accel, 83North",B2B
+Grammarly,$13,10/10/2019,United States,San Francisco,Media & Entertainment,"General Catalyst, Institutional Venture Partners, Breyer Capital",B2C
+Devoted Health,$12.90,10/16/2018,United States,Waltham,Healthcare & Life Sciences,"Andreessen Horowitz, F-Prime Capital, Venrock",B2B/B2C
+Faire,$12.59,10/30/2019,United States,San Francisco,Consumer & Retail,"Khosla Ventures, Forerunner Ventures, Sequoia Capital",B2C
+Brex,$12.30,10/5/2018,United States,San Francisco,Enterprise Tech,"DST Global, Ribbit Capital, Greenoaks Capital Management",B2B
+JUUL Labs,$12,12/20/2017,United States,San Francisco,Consumer & Retail,Tiger Global Management,B2C
+Wiz,$12,3/17/2021,Israel,Tel Aviv,Enterprise Tech,"Insight Partners, Sequoia Capital, Index Ventures",B2B
+Bitmain Technologies,$12,7/6/2018,China,Beijing,Enterprise Tech,"Coatue Management, Sequoia Capital China, IDG Capital",B2B
+GoodLeap,$12,10/13/2021,United States,Roseville,Financial Services,"New Enterprise Associates, BDT Capital Partners, Davidson Kempner Capital Management",B2B
+Xingsheng Selected,$12,7/22/2020,China,Changsha,Consumer & Retail,"KKR, Tencent Holdings, Sequoia Capital China",B2C
+Deel,$12,4/21/2021,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Spark Capital, Y Combinator",B2B
+Airtable,$11.70,11/15/2018,United States,San Francisco,Enterprise Tech,"Caffeinated Capital, CRV, Founder Collective",B2B
+BYJU's,$11.50,7/25/2017,India,Bengaluru,Consumer & Retail,"Tencent Holdings, Lightspeed India Partners, Sequoia Capital India",B2C
+ZongMu Technology,$11.40,6/3/2021,China,Shanghai,Industrials,"LTW Capital, Legend Capital, Qualcomm Ventures",B2B
+Global Switch,$11.10,12/22/2016,United Kingdom,London,Enterprise Tech,"Aviation Industry Corporation of China, Essence Financial, Jiangsu Sha Steel Group",B2B
+Checkout.com,$11,5/2/2019,United Kingdom,London,Financial Services,"Tiger Global Management, Insight Partners, DST Global",B2B
+Bolt,$11,10/8/2021,United States,San Francisco,Financial Services,"Activant Capital, Tribe Capital, General Atlantic",B2B
+Alchemy,$10.20,10/28/2021,United States,San Francisco,Enterprise Tech,"DFJ Growth Fund, Coatue Management, Addition",B2B
+Huolala,$10,2/21/2019,China,Guangzhou,Industrials,"MindWorks Ventures, Shunwei Capital Partners, Xiang He Capital",B2B
+Gusto,$10,12/18/2015,United States,San Francisco,Financial Services,"General Catalyst Partners, Google Ventures, Kleiner Perkins Caufield & Byers",B2B
+Chehaoduo,$10,3/12/2016,China,Beijing,Consumer & Retail,"Sequoia Capital China, GX Capital",B2C
+Talkdesk,$10,10/3/2018,United States,San Francisco,Enterprise Tech,"DJF, Salesforce Ventures, Storm Ventures",B2B
+Notion,$10,4/1/2020,United States,San Francisco,Enterprise Tech,"Index Ventures, Draft Ventures, Felicis Ventures",B2B
+Digital Currency Group,$10,11/1/2021,United States,New York,Financial Services,"Ribbit Capital, capitalG, Softbank Group",B2B
+KuCoin,$10,5/10/2022,Seychelles,Victoria,Financial Services,"IDG Capital, Matrix Partners China, Jump Crypto",B2B
+ServiceTitan,$9.50,11/14/2018,United States,Glendale,Industrials,"Bessemer Venture Partners, ICONIQ Capital, Battery Ventures",B2B
+HEYTEA,$9.28,7/1/2019,China,Shenzhen,Consumer & Retail,"Sequoia Capital China, Tencent Investment, BA Capital",B2C
+N26,$9.23,1/10/2019,Germany,Berlin,Financial Services,"Redalpine Venture Partners, Earlybird Venture Capital, Valar Ventures",B2B
+Navan,$9.20,11/8/2018,United States,Palo Alto,Enterprise Tech,"Andreessen Horowitz, Lightspeed Venture Partners, Zeev Ventures",B2B
+VAST Data,$9.1,4/16/2020,United States,New York,Enterprise Tech,"Norwest Venture Partners, Goldman Sachs, Dell Technologies Capital",B2B
+Northvolt,$9.08,6/12/2019,Sweden,Stockholm,Industrials,"Vattenfall, Volkswagen Group, Goldman Sachs",B2B
+Tanium,$9,3/31/2015,United States,Kirkland,Enterprise Tech,"Andreessen Horowitz, Nor-Cal Invest, TPG Growth",B2B
+Niantic,$9,11/24/2017,United States,San Francisco,Media & Entertainment,"Nintendo, Google, Pokemon Company International, Spark Capital",B2C
+OYO Rooms,$9,9/25/2018,India,Gurugram,Consumer & Retail,"SoftBank Group, Sequoia Capital India, Lightspeed India Partners",B2C
+Rapyd,$8.75,12/3/2019,United Kingdom,London,Financial Services,"Target Global, General Catalyst, Durable Capital Partners",B2B
+Kavak,$8.70,10/1/2020,Mexico,Lerma de Villada,Industrials,"DST Global, SoftBank Group, Mountain Nazca",B2B
+Nuro,$8.60,2/11/2019,United States,Mountain View,Industrials,"SoftBank Group, Greylock Partners, Gaorong Capital",B2B
+Chainalysis,$8.60,11/23/2020,United States,New York,Financial Services,"Addition, Benhcmark, Accel",B2B
+Personio,$8.50,1/19/2021,Germany,Munich,Enterprise Tech,"Global Founders Capital, Nortzone Ventures, Picus Capital",B2B
+SumUp,$8.50,7/16/2019,United Kingdom,London,Financial Services,"American Express Ventures, Goldman Sachs, Bain Capital Credit",B2B
+Bolt,$8.40,5/29/2018,Estonia,Tallinn,Industrials,"Didi Chuxing, Diamler, TMT Investments",B2B
+Tipalti,$8.30,10/6/2020,United States,San Mateo,Enterprise Tech,"01 Advisors, Zeev Ventures, Group 11",B2B
+Dream11,$8,4/9/2019,India,Mumbai,Media & Entertainment,"Kaalari Capital, Tencent Holdings, Steadview Capital",B2C
+Fireblocks,$8,7/27/2021,United States,New York,Financial Services,"Tenaya Capital, Coatue Management, Stripes Group",B2B
+Flexport,$8,4/30/2018,United States,San Francisco,Industrials,"Bloomberg Beta, Founders Fund, First Round Capital",B2B
+FalconX,$8,8/10/2021,United States,San Mateo,Financial Services,"Tiger Global Management, American Express Ventures, B Capital Group",B2B
+Caris,$7.83,5/12/2021,United States,Irving,Healthcare & Life Sciences,"Sixth Street Partners, OrbiMed Advisors, Highland Capital Management",B2B/B2C
+Ramp,$7.65,3/29/2021,United States,New York,Enterprise Tech,"D1 Capital Partners, Stripe, Coatue Management",B2B
+Dapper Labs,$7.60,3/30/2021,Canada,Vancouver,Media & Entertainment,"Union Square Ventures, Venrock, Andreessen Horowitz",B2C
+Netskope,$7.50,11/13/2018,United States,Santa Clara,Enterprise Tech,"Lightspeed Venture Partners, Social Capital, Accel",B2B
+Razorpay,$7.50,10/11/2020,India,Bengaluru,Financial Services,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",B2B
+Automattic,$7.50,5/27/2013,United States,San Francisco,Media & Entertainment,"Insight Venture Partners, Lowercase Capital, Polaris Partners",B2C
+Carta,$7.40,5/6/2019,United States,San Francisco,Financial Services,"Menlo Ventures, Spark Capital, Union Square Ventures",B2B
+Snyk,$7.40,1/21/2020,United States,Boston,Enterprise Tech,"BOLDstart Ventures, Google Ventures, Accel",B2B
+Gong,$7.25,8/12/2020,United States,Palo Alto,Enterprise Tech,"Norwest Venture Partners, Next World Capital, Wing Venture Capital",B2B
+Gemini,$7.10,11/19/2021,United States,New York,Financial Services,"Morgan Creek Digital, Marcy Venture Partners, 10T Fund",B2B
+Blockchain.com,$7,2/17/2021,United Kingdom,London,Financial Services,"Lightspeed Venture Partners, Google Ventures, Lakestar",B2B
+Toss,$7,12/9/2018,South Korea,Seoul,Financial Services,"Bessemer Venture Partners, Qualcomm Ventures, Kleiner Perkins Caufield & Byers",B2B
+We Doctor,$7,9/22/2015,China,Hangzhou,Healthcare & Life Sciences,"Tencent, Morningside Group",B2B/B2C
+Ro,$7,7/27/2020,United States,New York,Healthcare & Life Sciences,"Initialized Capital, General Catalyst, SignalFire",B2B/B2C
+ConsenSys,$7,11/17/2021,United States,New York,Enterprise Tech,"Third Point, Electric Capital, Coinbase Ventures",B2B
+Automation Anywhere,$6.80,7/2/2018,United States,San Jose,Enterprise Tech,"General Atlantic, Goldman Sachs, New Enterprise Associates",B2B
+1Password,$6.80,7/8/2021,Canada,Toronto,Enterprise Tech,"Slack Fund, Accel, Skip Capital",B2B
+Ziroom,$6.60,1/17/2018,China,Beijing,Consumer & Retail,"Sequoia Capital China, Warburg Pincus, General Catalyst",B2C
+SVOLT,$6.51,6/8/2020,China,Changzhou,Industrials,"IDG Capital, Bank Of China Group Investment,, SDIC CMC Investment Management",B2B
+National Stock Exchange of India,$6.50,7/1/2020,India,Mumbai,Financial Services,"TA Associates, SoftBank Group, GS Growth",B2B
+Mollie,$6.50,9/8/2020,Netherlands,Amsterdam,Financial Services,Technology Crossover Ventures,B2B
+Doctolib,$6.40,3/19/2019,France,Paris,Healthcare & Life Sciences,"BPI France, Kerala Ventures, Accel",B2B/B2C
+CRED,$6.40,4/6/2021,India,Bengaluru,Financial Services,"Tiger Global Management, DST Global, Sequoia Capital India",B2B
+DataRobot,$6.30,7/29/2019,United States,Boston,Enterprise Tech,"New Enterprise Associates, Accomplice, IA Ventures",B2B
+Upgrade,$6.28,2/12/2018,United States,San Francisco,Financial Services,"Union Square Ventures, Ribbit Capital, VY Capital",B2B
+Mistral AI,$6.22,12/10/2023,France,Paris,Enterprise Tech,"Lightspeed Venture Partners, General Catalyst, Andreessen Horowitz",B2B
+Hinge Health,$6.20,1/6/2021,United States,San Francisco,Healthcare & Life Sciences,"Atomico, Insight Partners, Coatue Management",B2B/B2C
+Black Unicorn Factory,$6.10,5/20/2021,United States,Los Angeles,Enterprise Tech,Barter Ventures,B2B
+Benchling,$6.10,4/14/2021,United States,San Francisco,Healthcare & Life Sciences,"Thrive Capital, Benchmark, MenloVentures",B2B/B2C
+Grafana Labs,$6,3/25/2021,United States,New York,Enterprise Tech,"Lightspeed Venture Partners, Lead Edge Capital, Coatue Management",B2B
+Applied Intuition,$6,10/22/2020,United States,Sunnyvale,Industrials,"Andreessen Horowitz, Lux Capital, General Catalyst",B2B
+Commure,$6,9/16/2021,United States,San Francisco,Healthcare & Life Sciences,"General Catalyst, HCA Healthcare",B2B/B2C
+Royole Corporation,$6,8/18/2015,China,Shenzhen,Industrials,"Warmsun Holding, IDG Capital Partners",B2B
+iCapital Network,$6,7/27/2021,United States,New York,Financial Services,"BlackRock, Blackstone, UBS",B2B
+6Sense,$5.20,3/30/2021,United States,San Francisco,Enterprise Tech,"Venrock, Battery Ventures, Insight Partners",B2B
+Attentive,$5.99,9/23/2020,United States,Hoboken,Enterprise Tech,"NextView Ventures, Eniac Ventures, Sequoia Capital",B2B
+Easyhome,$5.78,2/12/2018,China,Beijing,Consumer & Retail,"Alibaba Group, Boyu Capital, Borui Capital",B2C
+Lianjia,$5.77,4/7/2016,China,Beijing,Financial Services,"Tencent, Baidu, Huasheng Capital",B2B
+Workato,$5.70,1/12/2021,United States,Mountain View,Enterprise Tech,"Battery Ventures, Storm Ventures, Redpoint Ventures",B2B
+Vuori,$5.5,10/13/2021,United States,Carlsbad,Consumer & Retail,"SoftBank Group, Norwest Venture Partners",B2C
+Back Market,$5.70,5/18/2021,France,Paris,Consumer & Retail,"Aglae Ventures, Eurazeo, Daphni",B2C
+RELEX,$5.70,2/17/2022,Finland,Helsinki,Consumer & Retail,"Blackstone, Technology Crossover Ventures, Summit Partners",B2C
+The Boring Company,$5.70,4/20/2022,United States,Pflugerville,Industrials,"VY Capital, 8VC, Craft Ventures",B2B
+Postman,$5.60,6/11/2020,United States,San Francisco,Enterprise Tech,"Nexus Venture Partners, CRV, Insight Partners",B2B
+FiveTran,$5.60,6/30/2020,United States,Oakland,Enterprise Tech,"Matrix Partners, Andreessen Horowitz, General Catalyst",B2B
+ContentSquare,$5.60,5/25/2021,France,Paris,Enterprise Tech,"Highland Europe, Eurazeo, Canaan Partners",B2B
+Helsing,$5.37,9/14/2023,Germany,Munchen,Enterprise Tech,,B2B
+Trade Republic,$5.36,5/20/2021,Germany,Berlin,Financial Services,"Founders Fund. Accel, Creandum",B2B
+Odoo,$5.3,7/29/2021,Belgium,Louvain-la-Neuve,Enterprise Tech,"Summit Partners, Noshaq, Sofinnova Partners",B2B
+Rappi,$5.25,8/31/2018,Colombia,Bogota,Consumer & Retail,"DST Global, Andreessen Horowitz, Sequoia Capital, Redpoint e.ventures",B2C
+Collibra,$5.25,1/29/2019,Belgium,Brussels,Enterprise Tech,"Index Ventures, Battery Ventures, ICONIQ Capital",B2B
+Sierra,$4.5,10/28/2024,United States,San Francisco,Enterprise Tech,"Benchmark, Sequoia Capital, Thrive Capital",B2B
+OneTrust,$4.5,7/11/2019,United States,Atlanta,Enterprise Tech,Insight Partners,B2B
+QuintoAndar,$5.10,9/9/2019,Brazil,Campinas,Financial Services,"Kaszek Ventures, General Atlantic, SoftBank Group",B2B
+Monzo,$5.9,10/31/2018,United Kingdom,London,Financial Services,"Passion Capital, Thrive Capital, Orange Digital Ventures",B2B
+C6 Bank,$5.05,12/2/2020,Brazil,Sao Paulo,Financial Services,Credit Suisse,B2B
+Safe Superintelligence,$5,9/4/2024,United States,San Francisco,Enterprise Tech,"Sequoia Capital, DST Global, Andreessen Horowitz",B2B
+Redwood Materials,$5,7/28/2021,United States,Carson City,Industrials,"Breakthrough Energy Ventures, Capricorn Investment Group, Valor Equity Partners",B2B
+Abnormal Security,$5.1,5/10/2022,United States,San Francisco,Enterprise Tech,"Greylock Partners, Insight Partners,Menlo Ventures",B2B
+Hello TransTech,$5,6/1/2018,China,Shanghai,Industrials,"Ant Financial Services Group, GGV Capital",B2B
+Airwallex,$5.50,3/25/2019,Australia,Melbourne,Financial Services,"DST Global, Sequoia Capital China, Tencent Holdings",B2B
+Mambu,$5.50,1/6/2021,Netherlands,Amsterdam,Financial Services,"Runa Capital, Acton Capital Partners, Point Nine Capital",B2B
+Oura,$5,4/5/2022,Finland,Oulu,Healthcare & Life Sciences,"Forerunner Ventures, Lifeline Ventures, MSD Capital",B2B/B2C
+Howden Group Holdings,$5,9/29/2020,United Kingdom,London,Insurance,"General Atlantic, 3i Group, Huagai Capital",Unknown
+SambaNova Systems,$5,4/13/2021,United States,Palo Alto,Enterprise Tech,"Walden International, Google Ventures, Intel Capital",B2B
+ZEPZ,$5,8/23/2021,United Kingdom,London,Financial Services,"Accel, Technology Crossover Ventures, LeapFrog Investments",B2B
+OakNorth Bank,$5,10/12/2017,United Kingdom,London,Financial Services,"Clermont Group, Coltrane Asset Management, Toscafund Asset Management",B2B
+Moon Active,$5,1/26/2020,Israel,Tel Aviv,Media & Entertainment,"Insight Partners, Andalusian Capital Partners",B2C
+OfBusiness,$5,7/31/2021,India,Gurgaon,Industrials,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",B2B
+Cockroach Labs,$5,1/12/2021,United States,New York,Enterprise Tech,"Google Ventures, Benchmark, FirstMark Capital",B2B
+Pine Labs,$5,1/24/2020,India,Noida,Financial Services,"Sequoia Capital India, Temasek, PayPal Ventures",B2B
+Qonto,$5,1/11/2022,France,Paris,Enterprise Tech,"Alven Capital, Valar Ventures, Tencent Holdings",B2B
+Icertis,$5,7/17/2019,United States,Bellevue,Enterprise Tech,"Eight Roads Ventures, Greycroft, Ignition Partners",B2B
+Hopper,$5,3/24/2021,Canada,Montreal,Consumer & Retail,"Capital One Growth Ventures, Citi Ventures, OMERS Ventures",B2C
+VerSe Innovation,$5,12/22/2020,India,Bengaluru,Media & Entertainment,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",B2C
+Lenskart,$5,12/20/2019,India,Faridabad,Consumer & Retail,"Chiratae Ventures, PremjiInvest, Softbank",B2C
+ShareChat,$5,4/8/2021,India,Bengaluru,Media & Entertainment,"India Quotient, Elevation Capital, Lightspeed Venture Partners",B2C
+Coalition,$5,3/17/2021,United States,San Francisco,Insurance,"Two Sigma Ventures, Flint Capital, Commerce Ventures",Unknown
+Zepto,$5,8/25/2023,India,Mumbai,Consumer & Retail,"Nexus Venture Partners, Contrary, Global Founders Capital",B2C
+Meesho,$3.5,4/5/2021,India,Bengaluru,Consumer & Retail,"Venture Highway, Sequoia Capital India, Prosus Ventures",B2C
+Cerebral,$4.80,6/10/2021,United States,San Francisco,Healthcare & Life Sciences,"Oak HC/FT Partners, Artis Ventures, WestCap Group",B2B/B2C
+Reify Health,$4.80,8/10/2021,United States,Boston,Healthcare & Life Sciences,"Sierra Ventures, Battery Ventures, Asset Management Ventures",B2B/B2C
+Chipone,$4.73,12/16/2021,China,Beijing,Industrials,"China Grand Prosperity Investment, Silk Road Huacheng, Oriza Equity Investment",B2B
+BetterUp,$4.70,2/25/2021,United States,San Francisco,Enterprise Tech,"Threshold Ventures, Lightspeed Venture Partners, Crosslink Capital",B2B
+Pleo,$4.70,7/6/2021,Denmark,Copenhagen,Enterprise Tech,"Creandum, Founders, Kinnevik",B2B
+SonarSource,$4.70,4/26/2022,Switzerland,Geneva,Enterprise Tech,"Advent International,General Catalyst,Insight Partners",B2B
+Lyra Health,$5.85,8/25/2020,United States,Burlingame,Healthcare & Life Sciences,"Greylock Partners, Venrock, Providence Ventures",B2B/B2C
+Checkr,$4.60,9/19/2019,United States,San Francisco,Enterprise Tech,"Y Combinator, Accel, T. Rowe Price",B2B
+Glean,$4.6,5/18/2022,United States,Palo Alto,Enterprise Tech,"General Catalyst, Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners",B2B
+Skims,$4,4/9/2021,United States,Los Angeles,Consumer & Retail,"Thrive Capital, Alliance Consumer Growth, Imaginary Ventures",B2C
+Color,$4.60,1/4/2021,United States,Burlingame,Healthcare & Life Sciences,"General Catalyst, Viking Global Investors, T. Rowe Price",B2B/B2C
+Lendable,$4.58,3/31/2021,United Kingdom,London,Financial Services,"Ontario Teachers' Pension Plan, Goldman Sachs",B2B
+Vinted,$5.4,11/27/2019,Lithuania,Vilnius,Consumer & Retail,"Accel, Insight Partners, Burda Principal Investments",B2C
+VIPKid,$4.50,8/4/2016,China,Beijing,Consumer & Retail,"Sequoia Capital China, Tencent Holdings, Sinovation Ventures",B2C
+Socure,$4.50,3/16/2021,United States,New York,Financial Services,"Two Sigma Ventures, Flint Capital, Commerce Ventures",B2B
+wefox,$4.50,3/5/2019,Germany,Berlin,Insurance,"Salesforce Ventures, Seedcamp, OMERS Ventures",Unknown
+Hugging Face,$4.5,5/9/2022,United States,New York,Enterprise Tech,"Betaworks Ventures, Addition, Lux Capital",B2B
+Outreach,$4.40,4/16/2019,United States,Seattle,Enterprise Tech,"Mayfield Fund, M12, Trinity Ventures",B2B
+Lightmatter,$4.4,12/19/2023,United States,Mountain View,Enterprise Tech,"Google Ventures, Spark Capital, Matrix Partners",B2B
+Alan,$4.46,4/19/2021,France,Paris,Healthcare & Life Sciences,"Index Ventures, Temasek, Portag3 Ventures",B2B/B2C
+Guild Education,$4.40,11/13/2019,United States,Denver,Enterprise Tech,"General Atlantic, Blackstone, ICONIQ Growth",B2B
+Arctic Wolf Networks,$4.30,10/22/2020,United States,Eden Prairie,Enterprise Tech,"Lightspeed Venture Partners, Redpoint Ventures, Viking Global Investors",B2B
+OutSystems,$4.30,6/5/2018,United States,Boston,Enterprise Tech,"KKR, ES Ventures, North Bridge Growth Equity",B2B
+Sorare,$4.30,9/21/2021,France,Paris,Media & Entertainment,"Benchmark, Accel, SoftBank Group",B2C
+Zipline,$4.20,5/20/2019,United States,South San Francisco,Industrials,"Sequoia Capital, Baillie Gifford & Co., Google Ventures",B2B
+Relativity Space,$4.20,11/23/2020,United States,Inglewood,Industrials,"Playground Global, Bond, Tribe Capital",B2B
+Miaoshou Doctor,$4.25,6/27/2019,China,Beijing,Healthcare & Life Sciences,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",B2B/B2C
+ThoughtSpot,$4.20,5/8/2018,United States,Sunnyvale,Enterprise Tech,"Lightspeed Venture Partners, Khosla Ventures, Geodesic Capital",B2B
+Globalization Partners,$4.20,1/24/2022,United States,Boston,Enterprise Tech,"Vista Equity Partners, Wincove, TDR Capital",B2B
+dbt Labs,$4.20,6/30/2021,United States,Philadelphia,Enterprise Tech,"Andreessen Horowitz, Amplify Partners, Sequoia Capital",B2B
+SSENSE,$4.15,6/8/2021,Canada,Montreal,Consumer & Retail,Sequoia Capital,B2C
+Dataminr,$4.10,6/4/2018,United States,New York,Enterprise Tech,"Venrock, Institutional Venture Partners, Goldman Sachs",B2B
+BitPanda,$4.11,3/16/2021,Austria,Vienna,Financial Services,"Speedinvest, Valar Ventures, Uniqa Ventures",B2B
+Weee!,$4.10,3/16/2021,United States,Fremont,Consumer & Retail,"Goodwater Capital, iFly, XVC Venture Capital",B2C
+AlphaSense,$4,6/15/2022,United States,New York,Enterprise Tech,"Viking Global Investors, GS Growth, BlackRock",B2B
+Skydance Media,$4,2/11/2020,United States,Santa Monica,Media & Entertainment,"RedBird Capital Partners, CJ ENM, Tencent Holdings",B2C
+The Brandtech Group,$4,11/19/2019,United States,New York,Enterprise Tech,Undisclosed,B2B
+Houzz,$4,9/30/2014,United States,Palo Alto,Consumer & Retail,"New Enterprise Associates, Sequoia Capital, Comcast Ventures",B2C
+Yello Mobile,$4,11/11/2014,South Korea,Seoul,Consumer & Retail,Formation 8,B2C
+Inflection AI,$4,5/13/2022,United States,Palo Alto,Enterprise Tech,"Gates Frontier, Greylock Partners, Horizons Ventures",B2B
+MEGVII,$4,10/31/2017,China,Beijing,Enterprise Tech,"Ant Financial Services Group, Russia-China Investment Fund, Foxconn Technology Company",B2B
+Greensill,$4,7/16/2018,United Kingdom,London,Financial Services,"SoftBank Group, General Atlantic",B2B
+Impossible Foods,$4,5/13/2019,United States,Redwood City,Consumer & Retail,"Khosla Ventures, Horizons Ventures, Temasek Holdings",B2C
+Radiology Partners,$4,2/26/2018,United States,El Segundo,Healthcare & Life Sciences,"New Enterprise Associates, Starr Investment Holdings",B2B/B2C
+Next Insurance,$4,10/7/2019,United States,Palo Alto,Insurance,"Zeev Ventures, Ribbit Capital, TLV Partners",Unknown
+PointClickCare,$4,1/7/2021,Canada,Mississauga,Healthcare & Life Sciences,"Dragoneer Investment Group, Hellman & Friedman, JMI Equity",B2B/B2C
+Zapier,$4,1/14/2021,United States,Sunnyvale,Enterprise Tech,"Sequoia Capital, Bessemer Venture Partners, Threshold Ventures",B2B
+Clubhouse,$4,1/24/2021,United States,San Francisco,Media & Entertainment,"Andreessen Horowitz, TQ Ventures",B2C
+BrowserStack,$4,6/16/2021,Ireland,Dublin,Enterprise Tech,"Accel, Insight Partners, Bond Capital",B2B
+ClickUp,$4,12/15/2020,United States,San Diego,Enterprise Tech,"Georgian Partners, Craft Ventures",B2B
+Cerebras Systems,$4,11/14/2018,United States,Los Altos,Enterprise Tech,"Benchmark, Foundation Capital, Sequoia Capital",B2B
+Farmers Business Network,$4,8/3/2020,United States,San Carlos,Industrials,"Blackrock, Kleiner Perkins Caulfield & Byers, Google Ventures",B2B
+Branch,$4,9/10/2018,United States,Redwood City,Enterprise Tech,"New Enterprise Associates, Pear, Cowboy Ventures",B2B
+Aurora Solar,$4,5/24/2021,United States,San Francisco,Industrials,"Fifth Wall Ventures, Energize Ventures, ICONIQ Capital",B2B
+Webflow,$4,1/13/2021,United States,San Francisco,Enterprise Tech,"Accel, Silversmith Capital Partners, capitalG",B2B
+Yuga Labs,$4,3/22/2022,United States,Miami,Media & Entertainment,"Andreessen Horowitz, Thrive Capital, Sound Ventures",B2C
+Medlinker,$3.92,7/31/2018,China,Chengdu,Healthcare & Life Sciences,"China Health Industry Investment Fund, China Renaissance, and Sequoia Capital China",B2B/B2C
+StockX,$3.80,6/26/2019,United States,Detroit,Consumer & Retail,"Google Ventures, Battery Ventures, DST Global",B2C
+MessageBird,$3.80,10/8/2020,Netherlands,Amsterdam,Enterprise Tech,"Y Combinator, Atomico, Accel",B2B
+Articulate,$3.75,7/1/2021,United States,New York,Enterprise Tech,"Blackstone, ICONIQ Growth, General Atlantic",B2B
+Dutchie,$3.75,3/16/2021,United States,Bend,Consumer & Retail,"Casa Verde Capital, Gron Ventures, Thrity Five Ventures",B2C
+Cohesity,$3.70,6/11/2018,United States,San Jose,Enterprise Tech,"SoftBank Group, Sequoia Capital, Wing Venture Capital",B2B
+Abba Platforms,$3.70,10/10/2024,United States,New York,Financial Services,Run4 Capital,B2B
+Dataiku,$3.70,12/4/2019,United States,New York,Enterprise Tech,"Alven Capital, FirstMark Capital, capitalG",B2B
+GOAT,$3.70,9/23/2020,United States,Culver City,Consumer & Retail,"Upfront Ventures, Webb Investment Network, D1 Capital Partners",B2C
+Noom,$3.70,5/24/2021,United States,New York,Healthcare & Life Sciences,"Qualcomm Ventures, Samsung Ventures, Silver Lake",B2B/B2C
+Papaya Global,$3.70,3/4/2021,United States,New York,Enterprise Tech,"Bessemer Venture Partners, Insight Partners, New Era Ventures",B2B
+Abogen,$3.70,11/29/2021,China,Suzhou,Healthcare & Life Sciences,"Hillhouse Capital Management, SoftBank Group, Qiming Venture Partners",B2B/B2C
+Harness,$3.70,1/14/2021,United States,San Francisco,Enterprise Tech,"Menlo Ventures, Alkeon Capital Management, Citi Ventures",B2B
+Whatnot,$3.70,9/16/2021,United States,Marina del Rey,Consumer & Retail,"Y Combinator, Andreessen Horowitz, Wonder Ventures",B2C
+o9 Solutions,$3.7,4/28/2020,United States,Dallas,Enterprise Tech,KKR,B2B
+Autograph,$3.66,1/20/2022,United States,Santa Monica,Media & Entertainment,01 Advisors. Kleiner Perkins Caufield & Byers. Andreessen Horowitz,B2C
+Relativity,$3.60,3/18/2021,United States,Chicago,Enterprise Tech,"Silver Lake, ICONIQ Capital",B2B
+Whoop,$3.60,10/28/2020,United States,Boston,Healthcare & Life Sciences,"NextView Ventures, Promus Ventures, Two Sigma Ventures",B2B/B2C
+Course Hero,$3.60,2/12/2020,United States,Redwood City,Consumer & Retail,"NewView Capital, Maveron, Ridge Ventures",B2C
+SpotOn,$3.60,5/26/2021,United States,San Francisco,Financial Services,"Dragoneer Investment Group, DST Global, Franklin Templeton",B2B
+Otto Bock HealthCare,$3.52,6/24/2017,Germany,Duderstadt,Healthcare & Life Sciences,EQT Partners,B2B/B2C
+Cribl,$3.5,8/25/2021,United States,San Francisco,Enterprise Tech,"Institutional Venture Partners, CRV, Sequoia Capital",B2B
+Indigo Ag,$3.50,9/26/2017,United States,Boston,Industrials,"Activant Capital Group, Alaska Permanent Fund, Baillie Gifford & Co.",B2B
+eToro,$3.50,3/21/2023,United Kingdom,London,Financial Services,"BRM Group, Spark Capital, Social Leverage",B2B
+HyalRoute,$3.50,5/26/2020,Singapore,,Industrials,Kuang-Chi,B2B
+Rec Room,$3.50,3/23/2021,United States,Seattle,Media & Entertainment,"First Round Capital, Sequoia Capital, Index Ventures",B2C
+Mirakl,$3.50,9/22/2020,France,Paris,Consumer & Retail,"Elaia Partners, 83North, Felix Capital",B2C
+Tekion,$4,10/21/2020,United States,San Ramon,Industrials,"Airbus Ventures, Index Ventures, Advent International",B2B
+GoStudent,$3.50,6/22/2021,Austria,Vienna,Consumer & Retail,"DN Capital, Left Lane Capital, Coatue Management",B2C
+Highspot,$3.50,2/22/2021,United States,Seattle,Enterprise Tech,"Madrona Venture Group, Shasta Ventures, Salesforce Ventures",B2B
+Handshake,$3.50,5/12/2021,United States,San Francisco,Enterprise Tech,"Kleiner Perkins Caufield & Byers, Lightspeed Venture Partners, True Ventures",B2B
+ChargeBee Technologies,$3.50,4/20/2021,United States,San Francisco,Financial Services,"Insight Partners, Tiger Global Management, Accel",B2B
+Flock Safety,$3.50,7/13/2021,United States,Atlanta,Consumer & Retail,"Matrix Partners, Initialized Capital, Tiger Global Management",B2C
+Helion Energy,$3.50,11/5/2021,United States,Redmond,Industrials,"Mithril Capital Management, Y Combinator, Capricorn Investment Group",B2B
+Unacademy,$3.44,9/2/2020,India,Bengaluru,Consumer & Retail,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",B2C
+MoonPay,$3.40,11/22/2021,United States,Miami,Financial Services,"New Enterprise Associates, Coatue Management, Tiger Global Management",B2B
+Upstox,$3.40,11/29/2021,India,Mumbai,Financial Services,"Tiger Global Management, Kalaari Capital",B2B
+Improbable,$3.36,5/11/2017,United Kingdom,London,Media & Entertainment,"Andreessen Horowitz, SoftBank Group, Temasek Holdings",B2C
+Youxia Motors,$3.35,4/2/2018,China,Shanghai,Industrials,"China Environmental Protection Industry, China Fortune Ocean",B2B
+Starburst,$3.35,1/6/2021,United States,Boston,Enterprise Tech,"Index Ventures, Coatue Management, Andreessen Horowitz",B2B
+Moonshot AI,$3.3,2/19/2024,China,Beijing,Consumer & Retail,"HongShan, Jinfu Investment, ZhenFund",B2C
+Sila,$3.30,4/16/2019,United States,Alameda,Industrials,"Bessemer Venture Partners, Sutter Hill Ventures, Matrix Partners",B2B
+Komodo Health,$3.30,5/22/2020,United States,San Francisco,Healthcare & Life Sciences,"Andreessen Horowitz, IA Ventures, Felicis Ventures",B2B/B2C
+Kurly,$3.30,7/9/2021,South Korea,Seoul,Consumer & Retail,"Sequoia Capital China, DST Global, DST Global",B2C
+Cars24,$3.30,11/24/2020,India,Gurgaon,Industrials,"Moore Strategic Ventures, DST Global, Sequoia Capital India",B2B
+Spring Health,$3.3,9/16/2021,United States,New York,Healthcare & Life Sciences,"Rethink Impact, Work-Bench, RRE Ventures",B2B/B2C
+BlockDaemon,$3.25,9/21/2021,United States,Los Angeles,Financial Services,"BOLDstart Ventures, Lerer Hippeau, Kenetic Capital",B2B
+Bilt Rewards,$3.25,10/25/2022,United States,New York,Financial Services,"Camber Creek, Kairos HQ, Fifth Wall Ventures",B2B
+Vercel,$3.25,6/23/2021,United States,San Francisco,Enterprise Tech,"CRV, Accel, Google Ventures",B2B
+Dadi Cinema,$3.24,5/11/2016,China,Shenzhen,Media & Entertainment,Alibaba Pictures Group,B2C
+Aiven,$3.21,10/18/2021,Finland,Helsinki,Enterprise Tech,"Institutional Venture Partners, Atomico, Earlybird Venture Capital",B2B
+Thumbtack,$3.20,9/29/2015,United States,San Francisco,Consumer & Retail,"Tiger Global, Sequoia Capital, Google Capital",B2C
+Cedar,$3.20,3/9/2021,United States,New York,Healthcare & Life Sciences,"Thrive Capital, Founders Fund, Cocnord Health Partners",B2B/B2C
+Eruditus Executive Education,$3.1,8/12/2021,India,Mumbai,Enterprise Tech,"Sequoia Capital India, Softbank, Bertelsmann India Investments",B2B
+Blockstream,$3.20,8/24/2021,Canada,Vancouver,Financial Services,"AME Cloud Ventures, Future Perfect Ventures, Blockchain Capital",B2B
+Innovaccer,$3.20,2/19/2021,United States,San Francisco,Healthcare & Life Sciences,"M12, WestBridge Capital, Lightspeed Venture Partners",B2B/B2C
+Ironclad,$3.20,1/18/2022,United States,Sacramento,Enterprise Tech,"Accel, Sequoia Capital, Y Combinator",B2B
+Eikon Therapeutics,$3.20,1/6/2022,United States,Hayward,Healthcare & Life Sciences,"The Column Group, Foresite Capital, Foresite Capital",B2B/B2C
+Retool,$3.20,12/22/2021,United States,San Francisco,Enterprise Tech,Sequoia Capital,B2B
+Verkada,$3.20,1/29/2020,United States,San Mateo,Industrials,"next47, First Round Capital, Sequoia Capital",B2B
+PsiQuantum,$3.15,7/27/2021,United States,Palo Alto,Enterprise Tech,"Playground Global, M12, BlackRock",B2B
+HighRadius,$3.10,1/7/2020,United States,Houston,Financial Services,"Susquehanna Growth Equity, Citi Ventures, ICONIQ Capital",B2B
+Nuvemshop,$3.10,8/17/2021,Brazil,Sao Paulo,Consumer & Retail,"Kaszek Ventures, Qualcomm Ventures, Accel",B2C
+LayerZero Labs,$3,3/30/2022,United States,New York,Enterprise Tech,"Andreessen Horowitz, FTX Ventures, Tiger Global Management",B2B
+Poolside,$3,10/2/2024,France,Paris,Enterprise Tech,"Felicis, Redpoint Ventures, HSBC Venture Capital",B2B
+Cyera,$3,4/9/2024,United States,New York,Enterprise Tech,"Accel, CyberStarts, Sequoia Capital",B2B
+Crusoe,$3,4/21/2022,United States,Denver,Industrials,"Bain Capital Ventures, Founders Fund, Winklevoss Capital",B2B
+Clio,$3,4/27/2021,Canada,Burnaby,Enterprise Tech,"OMERS Private Equity, T. Rowe Price, Technology Crossover Ventures",B2B
+Zhipu AI,$3,9/20/2023,China,Beijing,Enterprise Tech,"Qiming Venture Partners, Legend Capital, Jiangmen Venture Capital",B2B
+Island,$3,3/23/2022,United States,Dallas,Enterprise Tech,"Insight Partners, Sequoia Capital, Stripes Group",B2B
+Nord Security,$3,4/7/2022,Lithuania,Vilnius,Enterprise Tech,"General Catalyst, BaltCap, Novator Partners",B2B
+Yixia,$3,11/24/2015,China,Beijing,Media & Entertainment,"Sequoia Capital China, Sina Weibo, Kleiner Perkins Caufield & Byers, Redpoint Ventures",B2C
+Traveloka,$3,1/1/2017,Indonesia,Jakarta,Consumer & Retail,"Global Founders Capital, East Ventures, Expedia Inc.",B2C
+Monad Labs,$3,4/9/2024,United States,New York,Financial Services,"HTX Ventures, Electric Capital, Coinbase Ventures",B2B
+SouChe Holdings,$3,11/1/2017,China,Hangzhou,Industrials,"Morningside Ventures, Warburg Pincus, CreditEase Fintech Investment Fund",B2B
+BGL Group,$3,11/24/2017,United Kingdom,Peterborough,Insurance,CPP Investment Board,Unknown
+Circle,$3,5/15/2018,United States,Boston,Financial Services,"General Catalyst, Digital Currency Group, Accel",B2B
+Zuoyebang,$3,7/18/2018,China,Beijing,Consumer & Retail,"Sequoia Capital China, Xiang He Capital, GGV Capital",B2C
+FlixMobility,$3,7/18/2019,Germany,Munich,Industrials,"Holtzbrinck Ventures, Unternehmertum Venture Capital, General Atlantic",B2B
+Wildlife Studios,$3,12/5/2019,Brazil,Sao Paulo,Media & Entertainment,"Benchmark, Bessemer Venture Partners",B2C
+ApplyBoard,$3.20,5/5/2020,Canada,Kitchener,Consumer & Retail,"Artiman Ventures, Plug and Play Ventures, Anthos Capital",B2C
+Forter,$3,11/19/2020,United States,New York,Enterprise Tech,"Sequoia Capital Israel, Scale Venture Partners, Commerce Ventures",B2B
+Calendly,$3,1/26/2021,United States,Atlanta,Enterprise Tech,"ICONIQ Capital, OpenView Venture Partners",B2B
+BlockFi,$3,3/11/2021,United States,Jersey City,Financial Services,"ConsenSys Ventures, Valar Ventures, PUC",B2B
+ActiveCampaign,$3,4/21/2021,United States,Chicago,Enterprise Tech,"Silversmith Capital Partners, Susquehanna Growth Equity, Tiger Global Management",B2B
+CMR Surgical,$3,9/17/2019,United Kingdom,Cambridge,Healthcare & Life Sciences,"Cambridge Innovation Capital, LGT Capital Partners, Escala Capital",B2B/B2C
+Lucid Software,$3,6/29/2021,United States,South Jordan,Enterprise Tech,"Spectrum Equity, ICONIQ Capital, Grayhawk Capital",B2B
+Age of Learning,$3,5/3/2016,United States,Glendale,Consumer & Retail,Iconiq Capital,B2C
+Carbon Health,$3,7/21/2021,United States,San Francisco,Healthcare & Life Sciences,"Brookfield Asset Management, Blackstone, Data Collective",B2B/B2C
+Contentful,$3,7/28/2021,Germany,Berlin,Enterprise Tech,"Balderton Capital, General Catalyst, Tiger Global Management",B2B
+LaunchDarkly,$3,8/10/2021,United States,Oakland,Enterprise Tech,"Uncork Capital, Threshold Ventures, Bloomberg Beta",B2B
+Seismic,$3,12/18/2018,United States,San Diego,Enterprise Tech,"Jackson Square Ventures, General Atlantic, Lightspeed Venture Partners",B2B
+Sky Mavis,$3,10/4/2021,Vietnam,Ho Chi Minh City,Media & Entertainment,"Fabric Ventures, 500 Global, Standard Crypto",B2C
+Outschool,$3,4/14/2021,United States,San Francisco,Consumer & Retail,"Uniion Square Ventures, Tiger Global Management, Lightspeed Venture Capital",B2C
+TradingView,$3,10/14/2021,United States,Westerville,Financial Services,"Tiger Global Management, Insight Partners, Jump Capital",B2B
+Groww,$3,4/7/2021,India,Bengaluru,Financial Services,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",B2B
+Podium,$3,4/7/2020,United States,Lehi,Consumer & Retail,"Accel, Summit Partners, Google Ventures",B2C
+Via,$3.50,3/30/2020,United States,New York,Industrials,"83North, RiverPark Ventures, Pitango Venture Capital",B2B
+Anchorage Digital,$3,12/15/2021,United States,San Francisco,Financial Services,"Andreessen Horowitz, Blockchain Capital, Lux Capital",B2B
+Inxeption,$3,1/13/2022,United States,San Francisco,Industrials,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",B2B
+Lattice,$3,3/23/2021,United States,San Francisco,Enterprise Tech,"Khosla Ventures, Thrive Capital, Y Combinator",B2B
+Flutterwave,$3,3/9/2021,United States,San Francisco,Financial Services,"Green Visor Capital, CRE Venture Capital, Greycroft",B2B
+Cross River Bank,$3,2/11/2022,United States,Fort Lee,Financial Services,"Battery Ventures, Andreessen Horowitz, Ribbit Capital",B2B
+Remote,$3,7/13/2021,United States,San Francisco,Enterprise Tech,"Index Ventures, Sequoia Capital, General Catalyst",B2B
+Sentry,$3,2/18/2021,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, Accel, Bond",B2B
+TERMINUS Technology,$2.96,10/25/2018,China,Beijing,Industrials,"China Everbright Limited, IDG Capital, iFLYTEK",B2B
+Kraken,$2.92,6/25/2019,United States,San Francisco,Financial Services,"Bnk To The Future, Trammell Ventures, SBI Investment",B2B
+Workrise,$2.90,9/30/2019,United States,Austin,Industrials,"Founders Fund, Quantum Energy Partners, Bedrock Capital",B2B
+BharatPe,$2.85,7/30/2021,India,New Delhi,Financial Services,"Insight Partners, Sequoia Capital India, BEENEXT",B2B
+Gokin Solar,$2.88,4/13/2022,China,Zhuhai,Industrials,"IDG Capital, Puluo Capital, Midea Capital",B2B
+DriveWealth,$2.85,8/20/2021,United States,Chatham,Financial Services,"Point72 Ventures, Route 66 Ventures, Accel",B2B
+Meicai,$2.80,6/22/2016,China,Beijing,Consumer & Retail,"Tiger Global Management, Blue Lake Capital, ZhenFund",B2C
+Physical Intelligence,$2.80,11/4/2024,United States,San Francisco,Enterprise Tech,"Khosla Ventures, Sequoia Capital, Lux Capital",B2B
+Nutrabolt,$2.79,12/8/2022,United States,Austin,Consumer & Retail,MidOcean Partners,B2C
+Baichuan AI,$2.77,10/17/2023,China,Haidian,Enterprise Tech,"Shenzhen Capital Group, Shunwei Capital",B2B
+Illumio,$2.75,4/14/2015,United States,Sunnyvale,Enterprise Tech,"Data Collective, Formation 8, General Catalyst Partners",B2B
+MasterClass,$2.75,5/13/2021,United States,San Francisco,Media & Entertainment,"Institutional Venture Partners, New Enterprise Associates, Javelin Venture Partners",B2C
+Dream Games,$2.75,6/30/2021,Turkey,Istanbul,Media & Entertainment,"Makers Fund, Index Ventures, Inova Ventures Participacees",B2C
+Transmit Security,$2.74,6/22/2021,Israel,Tel Aviv,Enterprise Tech,"General Atlantic, Insight Partners, Vintage Investment Partners",B2B
+Hozon Auto,$3.95,2/22/2022,China,Shanghai,Industrials,"HD Capital, Qihoo 360 Technology, China Fortune Land Development",B2B
+Tradeshift,$2.70,5/30/2018,United States,San Francisco,Enterprise Tech,"Notion Capital, Scentan Ventures, Kite Ventures",B2B
+Nextiva,$2.70,9/14/2021,United States,Scottsdale,Enterprise Tech,Goldman Sachs Asset Management,B2B
+Tridge,$2.70,8/24/2022,South Korea,Seoul,Industrials,"Forest Partners, Softbank Ventures Asia",B2B
+Thought Machine,$2.70,11/29/2021,United Kingdom,London,Financial Services,"British Patient Capital, SEB Venture Capital, IQ Capital",B2B
+Starling Bank,$2.69,3/8/2021,United Kingdom,London,Financial Services,"JTC Group, Qatar Investment Authority, Fidelity Investment",B2B
+Figure,$2.68,2/23/2024,United States,Sunnyvale,Industrials,"Intel Capital, Parkway VC, Amazon Industrial Innovation Fund",B2B
+BackBase,$2.66,6/9/2022,Netherlands,Amsterdam,Financial Services,Motive Partners,B2B
+ManoMano,$2.60,7/5/2021,France,Paris,Consumer & Retail,"General Atlantic, Piton Capital, Partech Partners",B2C
+Sourcegraph,$2.62,7/13/2021,United States,San Francisco,Enterprise Tech,"Redpoint Ventures, Goldcrest Capital, Insight Partners",B2B
+Pendo,$2.60,10/17/2019,United States,Raleigh,Enterprise Tech,"Contour Venture Partners, Battery Ventures, Core Capital Partners",B2B
+Plume,$2.60,2/23/2021,United States,Palo Alto,Industrials,"Insight Partners, Jackson Square Ventures, Liberty Gloval Ventures",B2B
+Moglix,$2.60,5/17/2021,Singapore,,Industrials,"Jungle Ventures, Accel, Venture Highway",B2B
+Axonius,$2.60,3/1/2021,United States,New York,Enterprise Tech,"Vertex Ventures Israel, Bessemer Venture Partners, Emerge",B2B
+Xinchao Media,$2,4/9/2018,China,Chengdu,Media & Entertainment,"JD.com, Baidu, Vision Plus Capital",B2C
+JumpCloud,$2.62,9/13/2021,United States,Louisville,Enterprise Tech,"Foundry Group, General Atlantic, BlackRock",B2B
+Unico,$2.60,8/3/2021,Brazil,Sao Paulo,Enterprise Tech,"Big Bets, General Atlantic, SOFTBANK Latin America Ventures",B2B
+Bending Spoons,$2.55,2/15/2024,Italy,Milan,Consumer & Retail,"Durable Capital Partners, Adjacent, Creator Partners",B2C
+JUST Egg,$2.59,11/30/2017,United States,San Francisco,Consumer & Retail,"Khosla Ventures, Horizons Ventures, Founders Fund",B2C
+Groq,$2.5,4/14/2021,United States,Mountain View,Enterprise Tech,"TDK Ventures, Social Capital, D1 Capital Partners",B2B
+Jetti Resources,$2.50,10/24/2022,United States,Boulder,Industrials,"BMW i Ventures, BHP Ventures",B2B
+Claroty,$2.5,6/17/2021,United States,New York,Enterprise Tech,"Bessemer Venture Partners, MoreVC, Team8",B2B
+Vista Global,$2.50,8/23/2017,United Arab Emirates,Dubai,Industrials,Rhone Capital,B2B
+BYTON,$2.50,4/20/2018,China,Nanjing,Industrials,"FAW Group, Tencent Holdings, Tus Holdings",B2B
+Side,$2.50,3/22/2021,United States,San Francisco,Financial Services,"Coatue Managemeny, Trinity Ventures, Matrix Partners",B2B
+Infra.Market,$2.50,2/25/2021,India,Thane,Industrials,"Accel, Tiger Global Management, Nexus Venture Partners",B2B
+Varo Bank,$2.50,9/9/2021,United States,San Francisco,Financial Services,"Warburg Pincus, The Rise Fund, HarbourVest Partners",B2B
+Cato Networks,$3,11/17/2020,Israel,Tel Aviv,Enterprise Tech,"Aspect Ventures, SingTel Innov8, Greylock Partners",B2B
+Sword Health,$3,11/22/2021,United States,New York,Healthcare & Life Sciences,"Khosla Ventures, Green Innovations, Founders Fund",B2B/B2C
+Aura,$2.50,6/9/2021,United States,Burlington,Consumer & Retail,"Warburg Pincus, General Catalyst",B2C
+TensTorrent,$2.6,5/5/2021,Canada,Toronto,Enterprise Tech,"Eclipse Ventures, Fidelity Investments, Moore Capital Management",B2B
+Sysdig,$2.50,4/28/2021,United States,San Francisco,Enterprise Tech,"Accel, Bain Capital Ventures, Insight Partners",B2B
+Zetwerk,$2.8,8/20/2021,India,Bengaluru,Industrials,"Sequoia Capital India, Kae Capital, Accel",B2B
+Uniphore,$2.50,2/16/2022,United States,Palo Alto,Enterprise Tech,"Chiratae Ventures, March Capital Partners, National Grid Partners",B2B
+Somatus,$2.50,2/23/2022,United States,McLean,Healthcare & Life Sciences,"The Blue Venture Fund, Flare Capital Partners, Longitude Capital",B2B/B2C
+Immutable,$2.50,3/7/2022,Australia,Sydney,Media & Entertainment,"Fabric Ventures, AirTree Ventures, Temasek",B2C
+SiFive,$2.50,3/16/2022,United States,San Mateo,Enterprise Tech,"Sutter Hill Ventures, Osage University Partners, Spark Capital",B2B
+Games24x7,$2.50,3/30/2022,India,Mumbai,Media & Entertainment,"Tiger Global Management, The Raine Group, Malabar Investments",B2C
+Fetch,$2.50,3/31/2021,United States,Madison,Consumer & Retail,"Greycroft, Loeb.NYC, DST Global",B2C
+Coda Payments,$2.50,4/15/2022,Singapore,,Financial Services,"GIC. Apis Partners, Insight Partners",B2B
+DriveNets,$2.50,1/27/2021,Israel,Ra'anana,Enterprise Tech,"Bessemer Venture Partners, Pitango Venture Capital, D1 Capital Partners",B2B
+Hibob,$2.45,10/12/2021,Israel,Tel Aviv,Enterprise Tech,"Bessemer Venture Partners, Eight Roads Ventures, Battery Ventures",B2B
+Vanta,$2.45,6/7/2022,United States,San Francisco,Enterprise Tech,"Craft Ventures, Sequoia Capital, Verissimo Ventures",B2B
+Mobile Premier League,$2.45,9/15/2021,India,Bengaluru,Media & Entertainment,"Sequoia Capital India, RTP Global, Go-Ventures",B2C
+insitro,$2.44,3/15/2021,United States,South San Francisco,Healthcare & Life Sciences,"Foresite Capital, ARCH Venture Partners, Third Rock Ventures",B2B/B2C
+Cgtz,$2.41,2/21/2017,China,Hangzhou,Financial Services,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",B2B
+Star Charge,$2.41,5/19/2021,China,Changzhou,Industrials,"Shunwei Capital Partners, China Media Group, Guangzhou Huiyin Aofeng Equity Investment Fund",B2B
+Carbon,$2.40,8/20/2015,United States,Redwood City,Industrials,"Google Ventures, Sequoia Capital, Wakefield Group",B2B
+Rokt,$2.40,12/16/2021,United States,New York,Consumer & Retail,"Square Peg Capital, TDM Growth Partners, Tiger Global Management",B2C
+Paxos,$2.40,4/29/2021,United States,New York,Financial Services,"Liberty City Ventures, RRE Ventures, Mithril Capital Management",B2B
+BitSight Technologies,$2.40,9/13/2021,United States,Boston,Enterprise Tech,"Menlo Ventures, GGV Capital, Flybridge Capital Partners",B2B
+Trumid,$2.40,7/15/2020,United States,New York,Financial Services,"T. Rowe Price, Dragoneer Investment Group, BlackRock",B2B
+ABL Space Systems,$2.40,3/25/2021,United States,El Segundo,Industrials,"T. Rowe Price, Lockheed Martin Ventures, Fidelity Investment",B2B
+HoneyBook,$2.40,5/4/2021,United States,San Francisco,Enterprise Tech,"Norwest Venture Partners, Hillsven Capital, Aleph",B2B
+Beta Technologies,$2.40,4/19/2022,United States,South Burlington,Industrials,"The Rise Fund, Fidelity Investments. RedBird Capital Partners",B2B
+Project44,$2.62,6/1/2021,United States,Chicago,Enterprise Tech,"Emergence Capital Partners, 8VC, Chicago Ventures",B2B
+Freenome,$2.62,8/26/2020,United States,South San Francisco,Healthcare & Life Sciences,"Andreessen Horowitz, Data Collective, Roche Venture Fund",B2B/B2C
+ManyPets,$2.35,6/1/2021,United Kingdom,London,Insurance,"Octopus Ventures, Munich Re Ventures, CommerzVentures",Unknown
+Jobandtalent,$2.35,12/1/2021,Spain,Madrid,Enterprise Tech,"Kibo Ventures, SoftBank Group, Atomico",B2B
+WEMAKEPRICE,$2.34,9/9/2015,South Korea,Seoul,Consumer & Retail,"IMM Investment, NXC",B2C
+Biren Technology,$2.32,8/18/2020,China,Shanghai,Enterprise Tech,"V FUND, IDG Capital, Green Pine Capital Partners",B2B
+Transcarent,$2.2,1/11/2022,United States,San Francisco,Healthcare & Life Sciences,"Alta Partners, General Catalyst, Jove Equity Partners",B2B/B2C
+Voodoo,$2.31,8/17/2020,France,Paris,Media & Entertainment,"Tencent Holdings, Goldman Sachs",B2C
+Shield AI,$2.80,8/24/2021,United States,San Diego,Industrials,"Andreessen Horowitz, Homebrew, Point72 Ventures",B2B
+PhysicsWallah,$2.8,6/7/2022,India,Uttar Pradesh,Consumer & Retail,"GSV Ventures, WestBridge Capital",B2C
+Uptake,$2.30,10/27/2015,United States,Chicago,Industrials,"Revolution, New Enterprise Associates, Caterpillar",B2B
+Motive,$2.85,4/23/2019,United States,San Francisco,Industrials,"Google Ventures, Index Ventures, Scale Venture Partners",B2B
+Greenlight,$2.30,9/24/2020,United States,Atlanta,Financial Services,"Relay Ventures, TTV Capital, Canapi Ventures",B2B
+MoMo,$2.27,12/10/2021,Vietnam,Ho Chi Minh City,Financial Services,"Goodwater Capital, Warburg Pincus, GS Growth",B2B
+Story Protocol,$2.25,8/21/2024,United States,Bellevue,Media & Entertainment,"A16z Crypto, Andreessen Horowitz, Two Small Fish Ventures",B2C
+Algolia,$2.25,7/28/2021,United States,San Francisco,Enterprise Tech,"Accel, Alven Capital, Storm Ventures",B2B
+Pattern,$2.25,10/6/2021,United States,Lehi,Consumer & Retail,"Knox Lane, Ainge Advisory, Carlson Private Capital Partners",B2C
+Newfront Insurance,$2.20,4/12/2022,United States,San Francisco,Insurance,"Founders Fund, Meritech Capital Partners, GS Growth",Unknown
+NuCom Group,$2.20,2/22/2018,Germany,Unterfoehring,Consumer & Retail,General Atlantic,B2C
+Skydio,$2.20,2/25/2021,United States,Redwood City,Industrials,"Andreessen Horowitz, Andreessen Horowitz, Institutional Venture Partners, Accel",B2B
+MUSINSA,$2.76,11/11/2019,South Korea,Seoul,Consumer & Retail,Sequoia Capital,B2C
+Uala,$2.75,8/13/2021,Argentina,Buenos Aires,Financial Services,"Soros Fund Management, Ribbit Capital, Monashees+",B2B
+Current,$2.20,4/27/2021,United States,New York,Financial Services,"Expa, QED Investors, Foundation Capital",B2B
+Bitso,$2.20,5/5/2021,Mexico,Mexico City,Financial Services,"Pantera Capital, QED Investors, Coinbase Ventures",B2B
+Gympass,$2.40,6/12/2019,United States,New York,Healthcare & Life Sciences,"General Atlantic, SoftBank Group, Atomico",B2B/B2C
+Dialpad,$2.20,10/6/2020,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Google Ventures, Section 32",B2B
+G7 Networks,$2.20,2/15/2022,China,Beijing,Industrials,"Eastern Bell Capital 32, SDIC CMC Investment Management, Trustbridge Partners",B2B
+BloomReach,$2.20,2/23/2022,United States,Mountain View,Consumer & Retail,"Bain Capital Ventures, Sixth Street Growth, Lightspeed Venture Partners",B2C
+Motif FoodWorks,$2.20,6/16/2021,United States,Boston,Industrials,"General Atlantic, Breakthrough Energy Ventures, Viking Global Investors",B2B
+Accelerant,$2.4,1/12/2022,United Kingdom,Colchester,Insurance,"Deer Park Road, Altamont Capital Partners, Eldridge",Unknown
+YITU Technology,$2.17,3/8/2018,China,Shanghai,Enterprise Tech,"Sequoia Capital China, Banyan Capital",B2B
+Addepar,$2.17,6/15/2021,United States,Mountain View,Financial Services,"8VC, D1 Capital Partners, Sway Ventures",B2B
+Qualia,$2.17,12/21/2020,United States,San Francisco,Financial Services,"8VC, Menlo Ventures, Tiger Global Management",B2B
+Neo4j,$2,6/17/2021,United States,San Mateo,Enterprise Tech,"Eight Roads Ventures, One Peak Partners, Creandum",B2B
+CloudWalk,$2.15,9/8/2021,Brazil,Sao Paulo,Financial Services,"Plug and Play Ventures, Valor Capital Group, DST Global",B2B
+Xaira Therapeutics,$2.15,4/23/2024,United States,San Francisco,Healthcare & Life Sciences,"ARCH Venture Partners, Foresite Capital, Two Sigma Ventures",B2B/B2C
+CoinDCX,$2.15,8/10/2021,India,Maharashtra,Financial Services,"Polychain Capital, Coinbase Ventures, Jump Capital",B2B
+Eightfold,$2.10,10/27/2020,United States,Santa Clara,Enterprise Tech,"Foundation Capital, Institutional Venture Partners, General Catalyst",B2B
+Urban Company,$2.10,4/27/2021,India,Gurgaon,Consumer & Retail,"VY Capital, Accel, Elevation Capital",B2C
+Moveworks,$2.10,6/30/2021,United States,Mountain View,Enterprise Tech,"Lightspeed Venture Partners, Sapphire Ventures, Kleiner Perkins Caufield & Byers",B2B
+Medable,$2.10,10/26/2021,United States,Palo Alto,Healthcare & Life Sciences,"GSR Ventures, Sapphire Ventures, Streamlined Ventures",B2B/B2C
+GoCardless,$2.10,2/8/2022,United Kingdom,London,Financial Services,"Accel, Passion Capital, Balderton Capital",B2B
+Aledade,$3.5,1/19/2021,United States,Bethesda,Healthcare & Life Sciences,"Venrock, CVF Capital Partners, ARCH Venture Partners",B2B/B2C
+A24 Films,$3.5,3/9/2022,United States,New York,Media & Entertainment,"Stripes Group, Neuberger Berman",B2C
+Forto,$2.10,6/21/2021,Germany,Berlin,Industrials,"Cherry Ventures, Northzone Ventures, Global Founders Capital",B2B
+Synthesia,$2.1,6/13/2023,United Kingdom,London,Enterprise Tech,"Google Ventures, Kleiner Perkins Caufield & Byers, FirstMark Capital",B2B
+Jeeves,$2.10,3/14/2022,United States,Orlando,Enterprise Tech,"Tencent Holdings, CRV, Clocktower Technology Ventures",B2B
+Viva Wallet,$2.05,12/17/2022,Greece,Athens,Financial Services,"Breyer Capital, Hedosophia",B2B
+DeepL,$2,1/11/2023,Germany,Cologne,Enterprise Tech,"Benchmark, btov Partners, Bessemer Venture Partners",B2B
+Melio,$2,1/25/2021,United States,New York,Financial Services,"Accel, Aleph, American Express Ventures",B2B
+Firefly Aerospace,$2,5/4/2024,United States,Cedar Park,Industrials,"Noosphere Ventures, RPM Ventures, SMS Capital Investment",B2B
+Cognition AI,$2,4/24/2024,United States,San Francisco,Enterprise Tech,"Founders Fund, Khosla Ventures",B2B
+Babel Finance,$2,5/25/2022,Hong Kong,Hong Kong,Financial Services,"Dragonfly Capital, BAI Capital, 10T Fund",B2B
+Trendy Group International,$2,2/13/2012,Hong Kong,Kowloon,Consumer & Retail,L Capital Partners,B2C
+GrubMarket,$2,9/14/2021,United States,San Francisco,Consumer & Retail,"GGV Capital, BlackRock, ACE & Company",B2C
+BeZero,$2,11/14/2022,United Kingdom,London,Enterprise Tech,"Contrarian Ventures, Molten Ventures, Hitachi Ventures 32",B2B
+Cohere,$2,5/2/2023,Canada,Toronto,Enterprise Tech,"Index Ventures, Salesforce Ventures, Section 32",B2B
+GO1,$2,7/19/2021,Australia,Brisbane,Enterprise Tech,"Y Combinator, M12, SEEK",B2B
+Clear Street,$2,4/29/2022,United States,New York,Financial Services,"NextGen Venture Partners, Prysm Capital, McLaren Strategic Ventures",B2B
+Drata,$2,11/8/2021,United States,San Diego,Enterprise Tech,"Cowboy Ventures, Leaders Fund, GGV Capital",B2B
+Mysten Labs,$2,9/8/2022,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Coinbase Ventures, Circle Ventures",B2B
+Avant,$2,12/17/2012,United States,Chicago,Financial Services,"RRE Ventures, Tiger Global, August Capital",B2B
+Tubatu.com,$2,3/9/2015,China,Shenzhen,Consumer & Retail,"Sequoia Capital China, Matrix Partners China, 58.com",B2C
+BlaBlaCar,$2,9/16/2015,France,Paris,Consumer & Retail,"Accel Partners, Index Ventures, Insight Venture Partners",B2C
+HuiMin,$2,9/5/2016,China,Beijing,Consumer & Retail,"Zheshang Venture Capital, GP Capital, Western Capital Management",B2C
+Preferred Networks,$2,5/17/2018,Japan,Tokyo,Industrials,"Toyota Motor Corporation, Mizuho Financial Group, FANUC",B2B
+Formlabs,$2,8/1/2018,United States,Somerville,Industrials,"Pitango Venture Capital, DFJ Growth Fund, Foundry Group",B2B
+Calm,$2,2/6/2019,United States,San Francisco,Healthcare & Life Sciences,"Insight Venture Partners, TPG Growth, Sound Ventures",B2B/B2C
+Kaseya,$2,3/27/2019,United States,Miami,Enterprise Tech,"Insight Partners, TPG Alternative & Renewable Technologies, Ireland Strategic Investment Fund",B2B
+Mafengwo,$2,5/23/2019,China,Beijing,Consumer & Retail,"Qiming Venture Partners, Capital Today, General Atlantic",B2C
+Druva,$2,6/20/2019,United States,Sunnyvale,Enterprise Tech,"Nexus Venture Partners, Tenaya Capital, Sequoia Capital",B2B
+Kujiale,$2,10/25/2019,China,Hangzhou,Consumer & Retail,"GGV Capital, IDG Capital, Linear Venture",B2C
+AppsFlyer,$2,1/21/2020,United States,San Francisco,Enterprise Tech,"Magma Venture Partners, Pitango Venture Capital, Qumra Capital",B2B
+Redis,$2,8/25/2020,United States,Mountain View,Enterprise Tech,"Viola Ventures, Dell Technologies Capital, Bain Capital Ventures",B2B
+Xingyun Group,$2,9/24/2020,China,Shenzhen,Consumer & Retail,"Matrix Partners China, Eastern Bell Capital, Hongtai Capital Holdings",B2C
+Unqork,$2,10/6/2020,United States,New York,Insurance,"Blackrock, capitalG, World Lab Innovation",Unknown
+Virta Health,$2,12/2/2020,United States,San Francisco,Healthcare & Life Sciences,"Caffeinated Capital, Obvious Ventures, Venrock",B2B/B2C
+ISN,$2,12/17/2020,United States,Dallas,Industrials,Blackstone,B2B
+Earnix,$2,2/21/2021,Israel,Giv'atayim,Insurance,"Jerusalem Venture Partners, Israel Growth Partners, Insight Partners",Unknown
+Clearco,$2,4/20/2021,Canada,Toronto,Financial Services,"Highland Capital Partners, Oak HC/FT Partners, Emergence Capital Partners",B2B
+Hive,$2,4/21/2021,United States,San Francisco,Enterprise Tech,"Tomales Bay Capital, Bain & Company, General Catalyst",B2B
+Kry,$2,4/27/2021,Sweden,Stockholm,Healthcare & Life Sciences,"Index Ventures, Creandum, Accel",B2B/B2C
+Kajabi,$2,5/4/2021,United States,Irvine,Media & Entertainment,"Meritech Capital Partners, Tiger Global Management, Spectrum Equity",B2C
+Ethos,$2.70,5/11/2021,United States,San Francisco,Insurance,"Sequoia Capital, Google Ventures, Accel",Unknown
+PayFit,$2.10,1/6/2022,United Kingdom,London,Enterprise Tech,"Accel, frst, Kima Ventures",B2B
+Beisen,$2,5/11/2021,China,Beijing,Enterprise Tech,"Matrix Partners China, Sequoia Capital China, Genesis Capital",B2B
+Pipe,$2,5/19/2021,United States,Miami,Financial Services,"next47, MaC Venture Capital, FinVC",B2B
+Iterable,$2,6/15/2021,United States,San Francisco,Enterprise Tech,"CRV, Blue Cloud Ventures, Index Ventures",B2B
+Astronergy,$1.82,7/25/2023,China,Haining,Industrials,,B2B
+Bunq,$1.8,6/18/2021,Netherlands,Amsterdam,Financial Services,Undisclosed,B2B
+Quest Global,$1.8,8/8/2023,,Singapore,Industrials,,B2B
+Clip,$2,6/10/2021,Mexico,Mexico City,Financial Services,"Alta Ventures Mexico, General Atlantic, SoftBank Group",B2B
+Loggi,$2,6/5/2019,Brazil,Sao Paulo,Industrials,"Qualcomm Ventures, SoftBank Group. Monashees+",B2B
+MURAL,$2,7/20/2021,United States,San Francisco,Enterprise Tech,"Insight Partners, Tiger Global Management, Gradient Ventures",B2B
+OCSiAl,$2,3/4/2019,Luxembourg,Leudelange,Industrials,"A&NN, Rusnano",B2B
+Divvy Homes,$2,8/13/2021,United States,San Francisco,Financial Services,"Andreessen Horowitz, Caffeinated Capital, SciFi VC",B2B
+Apeel Sciences,$2,5/26/2020,United States,Goleta,Consumer & Retail,"Upfront Ventures, Tao Capital Partners, Andreessen Horowitz",B2C
+Opay,$2,8/23/2021,Nigeria,Lagos,Financial Services,"Sequoia Capital China, Source Code Capital, Redpoint Ventures China",B2B
+Aviatrix,$2,9/8/2021,United States,Santa Clara,Enterprise Tech,"Ignition Partners, Formation 8, CRV",B2B
+SmartNews,$2,8/5/2019,Japan,Tokyo,Media & Entertainment,"Japan Post Capital, Globis Capital Partners, Atomico",B2C
+Misfits Market,$2,4/21/2021,United States,Pennsauken,Consumer & Retail,"Accel, D1 Capita Partners, Greenoaks Capital Management",B2C
+Advance Intelligence Group,$2,9/23/2021,Singapore,,Financial Services,"Vision Plus Capital, GSR Ventures, ZhenFund",B2B
+Modern Treasury,$2,10/6/2021,United States,San Francisco,Financial Services,"Benchmark, Altimeter Capital, Quiet Capital",B2B
+Magic Leap,$2,10/21/2014,United States,Plantation,Enterprise Tech,"Obvious Ventures, Qualcomm Ventures, Andreessen Horowitz",B2B
+ClickHouse,$2,10/28/2021,United States,Portola Valley,Enterprise Tech,"Lightspeed Venture Partners, Almaz Capital Partners, Altimeter Capital",B2B
+Everlaw,$2,3/10/2020,United States,Oakland,Enterprise Tech,"K9 Ventures, Menlo Ventures, Andreessen Horowitz",B2B
+Zilch,$2,11/10/2021,United Kingdom,London,Financial Services,"Gauss Ventures, Ventura Capital, dmg ventures",B2B
+VerbIT,$2,6/8/2021,United States,New York,Enterprise Tech,"ClalTech, Vertex Ventures, Oryzn Capital",B2B
+StarkWare,$8,11/17/2021,Israel,Netanya,Enterprise Tech,"Sequoia Capital, Paradigm, Pantera Capital",B2B
+Netlify,$2,11/17/2021,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",B2B
+LTK,$2,11/22/2021,United States,Dallas,Media & Entertainment,"SoftBank Group, Maverick Capital",B2C
+Trax,$2,7/22/2019,Singapore,,Consumer & Retail,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",B2C
+Exotec,$2,1/17/2022,France,Croix,Industrials,"Breega Capital, Iris Capital, 360 Capital Partners",B2B
+Dremio,$2,1/6/2021,United States,Santa Clara,Enterprise Tech,"Lightspeed Venture Partners, Redpoint Ventures, Norwest Venture Partners",B2B
+Akulaku,$2,2/15/2022,Indonesia,Jakarta,Financial Services,"DCM Ventures, IDG Capital, Siam Commercial Bank",B2B
+Cloudinary,$2,2/15/2022,United States,Santa Clara,Media & Entertainment,"Blackstone, Bessemer Venture Partners",B2C
+Lunar,$2,7/12/2021,Denmark,Aarhus,Financial Services,"SEED Capital, Greyhound Capital, Socii Capital",B2B
+UpGrad,$2.25,8/9/2021,India,Mumbai,Consumer & Retail,"Qualcomm Ventures, Accel, Canaan Partners",B2C
+Salsify,$2,4/13/2022,United States,Boston,Consumer & Retail,"Matrix Partners, North Bridge Venture Partners, Venrock",B2C
+CertiK,$2,3/31/2022,United States,New York,Enterprise Tech,"Tiger Global Management, Lightspeed Venture Partners, Hillhouse Capital Management",B2B
+ROX Motor,$2,4/29/2022,China,Shanghai,Industrials,"Sequoia Capital China, IDG Capital, Qiming Venture Partners",B2B
+Devo Technology,$2,10/26/2021,United States,Cambridge,Enterprise Tech,"Insight Partners, Kibo Ventures, Bessemer Venture Partners",B2B
+ShiftKey,$2,1/11/2023,United States,Dallas,Healthcare & Life Sciences,Health Velocity Capital,B2B/B2C
+Rimac Automobili,$2,6/1/2022,Croatia,Sveta Nedelja,Industrials,"Porsche, InvestIndustrial, SoftBank Group",B2B
+Geek+,$2,11/21/2018,China,Beijing,Industrials,"Volcanics Ventures, Vertex Ventures China, Warburg Pincus",B2B
+21.co,$2,9/6/2022,United States,New York,Financial Services,"Quiet Ventures, ETFS Capital, Collab+Currency",B2B
+Solugen,$2,9/10/2021,United States,Houston,Industrials,"Fifty Years Fund, Refactor Capital, Temasek",B2B
+ZigBang,$1.93,6/7/2022,South Korea,Seoul,Financial Services,"Black Pearl Ventures, Stonebridge Ventures, Yuanta Investment Korea",B2B
+SemiDrive,$1.93,7/14/2024,China,Nanjing,Industrials,"Vinno Capital, Shanghai STVC Group, Guozhong Venture Capital Management",B2B
+Ankorstore,$1.98,1/10/2022,France,Paris,Consumer & Retail,"Global Founders Capital, Aglae Ventures, Alven Capital",B2C
+InVision,$1.90,11/1/2017,United States,New York,Enterprise Tech,"FirstMark Capital, Tiger Global Management, ICONIQ Capital",B2B
+Writer,$1.90,11/12/2024,United States,San Francisco,Enterprise Tech,"Aspect Ventures, Upfront Ventures, Balderton Capital",B2B
+eDaili,$1.90,2/1/2019,China,Shanghai,Financial Services,"K2VC, Lightspeed China Partners, Sky9 Capital",B2B
+commercetools,$1.90,9/13/2021,Germany,Munich,Enterprise Tech,"High-Tech Grunderfonds, Bayern Kapital, Accel",B2B
+NinjaOne,$1.90,2/6/2024,United States,Austin,Enterprise Tech,,B2B
+MX,$1.90,1/13/2021,United States,Lehi,Financial Services,"Point72 Ventures, Pelion Venture Partners, Commerce Ventures",B2B
+CoinSwitch,$1.90,10/6/2021,India,Bangalore,Financial Services,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",B2B
+Acorns,$1.90,3/9/2022,United States,Irvine,Financial Services,"e.ventures, Bain Capital Ventures, Greycroft",B2B
+Fever,$1.96,1/26/2022,United States,New York,Media & Entertainment,"Accel, 14W, GS Growth",B2C
+Roofstock,$1.94,3/10/2022,United States,Oakland,Financial Services,"Khosla Ventures, Bain Capital Ventures, Lightspeed Venture Partners",B2B
+thatgamecompany,$1.94,3/3/2022,United States,Los Angeles,Media & Entertainment,"Benchmark, Sequoia Capital, TPG Capital",B2C
+ConcertAI,$1.90,3/29/2022,United States,Boston,Healthcare & Life Sciences,"Sixth Street Partners, Declaration Partners, Maverick Ventures Israel",B2B/B2C
+Material Bank,$1.90,5/6/2022,United States,Boca Raton,Industrials,"Bain Capital Ventures, SoftBank Group, Fifth Wall Ventures",B2B
+Volocopter,$1.87,3/4/2022,Germany,Bruchsal,Industrials,"btov Partners, Geely, Intel Capital",B2B
+ENOVATE,$1.85,4/15/2019,China,Shanghai,Industrials,Automobile Industry Guidance Fund,B2B
+MEGAZONE,$1.83,8/16/2022,South Korea,Seoul,Enterprise Tech,"Salesforce Ventures, ATP Investment, kt investment",B2B
+CFGI,$1.85,9/15/2021,United States,Boston,Financial Services,"The Carlyle Group, CVC Capital Partners",B2B
+ZocDoc,$1.80,8/20/2015,United States,New York,Healthcare & Life Sciences,"Founders Fund, Khosla Ventures, Goldman Sachs",B2B/B2C
+ID.me,$1.8,3/19/2021,United States,McLean,Consumer & Retail,"Moonshots Capital, BoxGroup, Blu Venture Investors",B2C
+Scroll,$1.80,3/14/2023,Seychelles,,Financial Services,"OKX Ventures, Sequoia Capital China, IOSG",B2B
+Diamond Foundry,$1.80,3/29/2021,United States,San Francisco,Industrials,"Fashion Tech Lab, Fidelity Investments, Vast Ventures",B2B
+Quantexa,$1.80,4/3/2023,United Kingdom,London,Enterprise Tech,"AlbionVC, Dawn Capital, HSBC Venture Capital",B2B
+FullStory,$1.80,8/4/2021,United States,Atlanta,Enterprise Tech,"Google Ventures, Kleiner Perkins Caufield & Byers, Stripes Group",B2B
+Lightricks,$1.80,7/31/2019,Israel,Jerusalem,Media & Entertainment,"Viola Ventures, Insight Partners, ClalTech, Goldman Sachs",B2C
+Opentrons,$1.80,9/23/2021,United States,New York,Healthcare & Life Sciences,"SOSV, Khosla Ventures, Lerer Hippeau",B2B/B2C
+Kindbody,$1.80,3/2/2023,United States,Kindbody,Healthcare & Life Sciences,"RRE Ventures, Google Ventures, Bramalea Partners",B2B/B2C
+Slice,$1.80,11/28/2021,India,Bengaluru,Financial Services,"Gunosy Capital, Blume Ventures, Das Capital",B2B
+Cambrian BioPharma,$1.79,10/26/2021,United States,Brooklyn,Healthcare & Life Sciences,"Future Ventures, Apeiron Investment Group, Moore Capital Management",B2B/B2C
+Trulioo,$1.75,6/7/2021,Canada,Vancouver,Financial Services,"Blumberg Capital, American Express Ventures, BDC Venture Capital",B2B
+Creditas,$1.75,12/18/2020,Brazil,Sao Paulo,Financial Services,"Kaszek Ventures, Amadeus Capital Partners, Quona Capital",B2B
+BitGo,$1.75,8/16/2023,United States,Palo Alto,Financial Services,"Redpoint Ventures, Craft Ventures, Bridgescale Partners",B2B
+Spinny,$1.75,11/24/2021,India,Gurugram,Industrials,"General Catalyst, Eleation Capital, Avenir Growth Capital",B2B
+Orca Security,$1.80,3/23/2021,United States,Portland,Enterprise Tech,"YL Ventures, Redpoint Ventures, GGV Capital",B2B
+Apus Group,$1.73,1/16/2015,China,Beijing,Consumer & Retail,"Redpoint Ventures, QiMing Venture Partners, Chengwei Capital",B2C
+Razor,$1.7,11/8/2021,Germany,Berlin,Consumer & Retail,"Global Founders Capital, 468 Capital, Redalpine Venture Partners",B2C
+Micro Connect,$1.70,8/2/2023,,Hong Kong,Financial Services,"HongShan, Horizons Ventures, Lenovo Capital and Incubator Group",B2B
+DailyPay,$1.70,5/18/2021,United States,New York,Financial Services,"RPM Ventures, Inspiration Ventures, Carrick Capital Partners",B2B
+Udaan,$1.3,9/4/2018,India,Bengaluru,Consumer & Retail,"DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",B2C
+Harry's,$1.70,2/16/2018,United States,New York,Consumer & Retail,"Thrive Capital, Tiger Global Management, Temasek",B2C
+PAX,$1.70,10/22/2018,United States,San Francisco,Consumer & Retail,"Tao Capital Partners, Global Asset Capital, Tiger Global Management",B2C
+DispatchHealth,$1.70,3/3/2021,United States,Denver,Healthcare & Life Sciences,"Alta Partners, Questa Capital, Echo Health Ventures",B2B/B2C
+Pax8,$1.70,4/11/2022,United States,Greenwood Village,Enterprise Tech,"Liberty Global Ventures, Sageview Capital, Blue Cloud Ventures",B2B
+Multiverse,$1.70,6/8/2022,United Kingdom,London,Enterprise Tech,"Lightspeed Venture Partners, Google Ventures, General Catalyst",B2B
+Front,$1.70,6/28/2022,United States,San Francisco,Enterprise Tech,"Sequoia Capital, Uncork Capital, Salesforce Ventures",B2B
+Redesign Health,$1.70,9/13/2022,United States,New York,Healthcare & Life Sciences,"General Catalyst, Samsung NEXT, CVS Health Partners",B2B/B2C
+Tessera Therapeutics,$1.69,4/19/2022,United States,Cambridge,Healthcare & Life Sciences,"Altitude Life Science Ventures, SoftBank Group, Alaska Permanent Fund",B2B/B2C
+SafetyCulture,$1.67,5/3/2021,Australia,Sydney,Industrials,"Blackbird Ventures, IndexVentures, Tiger Global Management",B2B
+Ascend Elements,$1.67,9/6/2023,United States,Westborough,Industrials,"At One Ventures, Hitachi Ventures, Trumpf Venture",B2B
+Uniswap,$1.66,10/13/2022,United States,New York,Financial Services,"A16z Crypto, Variant Fund, Paradigm",B2B
+Kredivo Holdings,$1.66,8/15/2022,Singapore,,Financial Services,"Jungle Ventures, Square Peg Capital, OpenSpace Ventures",B2B
+Unite Us,$1.60,3/16/2021,United States,New York,Healthcare & Life Sciences,"Insight Partners, Sequoia Capital, Index Ventures",B2B/B2C
+CircleCI,$1.70,5/11/2021,United States,San Francisco,Enterprise Tech,"Threshold Ventures, Baseline Ventures, Harrison Metal",B2B
+Wave,$1.70,9/7/2021,Senegal,Dakar,Financial Services,"Stripe, Founders Fund, Partech Partners",B2B
+Dragos,$1.70,10/28/2021,United States,Hanover,Industrials,"DataTribe, Energy Impact Partners, AllegisCyber Capital",B2B
+Reltio,$1.70,11/4/2021,United States,Redwood City,Enterprise Tech,"Crosslink Capital, .406 Ventures, Sapphire Ventures",B2B
+H2O.ai,$1.70,11/7/2021,United States,Mountain View,Enterprise Tech,"Nexus Venture Partners, Transamerica Ventures, Crane Venture Partners",B2B
+ZenBusiness,$1.70,11/9/2021,United States,Austin,Enterprise Tech,"Greycroft, Lerer Hippeau, Geekdom Fund",B2B
+Carsome,$1.70,7/12/2021,Malaysia,Selangor,Industrials,"Gobi Partners, 500 Startups, Ondine Capital",B2B
+Productboard,$1.73,2/2/2022,United States,San Francisco,Enterprise Tech,"Index Ventures, Kleiner Perkins Caufield & Byers, Bessemer Venture Partners",B2B
+Spotter,$1.70,2/16/2022,United States,Los Angeles,Financial Services,"SoftBank Group, Access Industries, Crossbeam Venture Partners",B2B
+Optimism,$1.65,3/17/2022,United States,San Francisco,Enterprise Tech,"Paradigm, Huobi Ventures, Andreessen Horowitz",B2B
+Incredible Health,$1.65,8/17/2022,United States,San Francisco,Healthcare & Life Sciences,"Obvious Ventures, Andreessen Horowitz, NFX",B2B/B2C
+Jusfoun Big Data,$1.62,7/9/2018,China,Beijing,Enterprise Tech,"Boxin Capital, DT Capital Partners, IDG Capital",B2B
+FloQast,$1.6,7/21/2021,United States,Los Angeles,Financial Services,"Polaris Partners, Insight Partners, Norwest Venture Partners",B2B
+Weka,$1.6,5/15/2024,United States,Campbell,Enterprise Tech,"Qualcomm Ventures, Hitachi Ventures, MoreTech Ventures",B2B
+DealShare,$1.70,1/27/2022,India,Bengaluru,Consumer & Retail,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",B2C
+Zhubajie,$1.61,6/16/2015,China,Chongqing,Enterprise Tech,"Cybernaut Growth Fund, IDG Capital",B2B
+Solaris,$1.6,7/13/2021,Germany,Berlin,Financial Services,"Yabeo Capital, SBI Investment, Vulcan Capital",B2B
+Apollo,$1.6,8/29/2023,United States,Covina,Enterprise Tech,"Nexus Venture Partners, Sequoia Capital, Bain Capital Ventures",B2B
+DataStax,$1.60,5/26/2021,United States,Santa Clara,Enterprise Tech,"Crosslink Capital, Meritech Capital Partners, Lightspeed Venture Partners",B2B
+Infinidat,$1.60,4/29/2015,United States,Waltham,Enterprise Tech,"TPG Growth, Goldman Sachs",B2B
+Afiniti,$1.60,4/14/2017,Bermuda,Hamilton,Enterprise Tech,GAM Holding,B2B
+Cao Cao Mobility,$1.60,1/17/2018,China,Hangzhou,Industrials,"People Electrical Appliance Group China, Zhongrong International Trust",B2B
+Clari,$2.60,3/3/2021,United States,Sunnyvale,Enterprise Tech,"Sequoia Capital, Bain Capital Ventures, enaya Capital",B2B
+Monte Carlo,$1.60,5/24/2022,United States,San Francisco,Enterprise Tech,"GGV Capital, Accel, Redpoint Ventures",B2B
+Cresta,$1.60,3/17/2022,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Greylock Partners, Sequoia Capital",B2B
+Extend,$1.36,5/18/2021,United States,San Francisco,Insurance,"GreatPoint Ventures, Meritech Capital Partners, PayPal Ventures",Unknown
+Employment Hero,$1.37,10/18/2023,Australia,Sydney,Enterprise Tech,"OneVentures, AirTree Ventures, AMP New Ventures",B2B
+Generate Biomedicines,$1.36,11/18/2021,United States,Cambridge,Healthcare & Life Sciences,"Altitude Life Science Ventures. T. Rowe Price, Morningside Venture Partners",B2B/B2C
+Lambda Labs,$1.50,10/5/2023,United States,San Francisco,Enterprise Tech,"1517 Fund, Gradient Ventures, Bloomberg Beta",B2B
+Cognite,$1.50,5/19/2021,Norway,Lysaker,Industrials,"Technology Crossover Ventures, Accel, Aker",B2B
+Altruist,$1.50,4/16/2024,United States,Culver City,Financial Services,"Venrock, Endeavor, Adams Street Partners",B2B
+ASAPP,$1.60,5/19/2021,United States,New York,Enterprise Tech,"March Capital Partners, HOF Capital, Emergence Capital Partners",B2B
+SmartHR,$1.60,6/8/2021,Japan,Tokyo,Enterprise Tech,"BEENEXT, World Innovation Lab, Light Street Capital",B2B
+Mercury,$1.60,7/3/2021,United States,San Francisco,Financial Services,"Andreessen Horowitz, Coatue Management, Clocktower Technology Ventures",B2B
+HomeLight,$1.70,9/2/2021,United States,San Francisco,Financial Services,"Zeev Ventures, Menlo Ventures,Crosslink Capital",B2B
+ezCater,$1.60,4/2/2019,United States,Boston,Consumer & Retail,"Insight Venture Partners, ICONIQ Capital, Launchpad Venture Group",B2C
+Wayflyer,$1.60,2/1/2022,Ireland,Dublin,Financial Services,"QED Investors, DST Global, Left Lane Capital",B2B
+Capitolis,$1.60,3/22/2022,United States,New York,Financial Services,"Sequoia Capital, Index Ventures, S Capital",B2B
+Magic Eden,$1.60,6/21/2022,United States,San Francisco,Media & Entertainment,"Sequoia Capital, Lightspeed Venture Partners, Paradigm",B2C
+Pave,$1.60,6/28/2022,United States,San Francisco,Enterprise Tech,"Y Combinator, Andreessen Horowitz, Bessemer Venture Partners",B2B
+Astranis,$1.60,4/14/2021,United States,San Francisco,Industrials,"Refactor Capital, Andreessen Horowitz, Fifty Years Fund",B2B
+Promasidor Holdings,$1.59,11/8/2016,South Africa,Bryanston,Consumer & Retail,"IFC, Ajinomoto",B2C
+GalaxySpace,$1.58,11/17/2020,China,Beijing,Industrials,"Shunwei Capital Partners, 5Y Capital, Legend Capital",B2B
+Icon,$1.57,2/18/2022,United States,Austin,Industrials,"Moderne Ventures, Oakhouse Partners, Bjarke Ingels Group",B2B
+Fresh Life Style Supply Chain Management,$1.57,3/11/2022,China,Chengdu,Consumer & Retail,"Guiyang Venture Capital, Longfor Capital, CAOGENZHIBEN GROUP",B2C
+Alloy,$1.55,9/30/2021,United States,New York,Financial Services,"Bessemer Venture Partners, Eniac Ventures, Canapi Ventures",B2B
+Huntress,$1.55,6/18/2024,United States,Ellicott City,Enterprise Tech,"ForgePoint Capital, Sapphire Ventures, Gula Tech Adventures",B2B
+Baiwang,$1.55,3/25/2019,China,Beijing,Enterprise Tech,"Guozhong Venture Capital Management, Shenzhen Capital Group, Oriental Fortune Capital",B2B
+Iluvatar CoreX,$1.55,3/1/2021,China,Shanghai,Enterprise Tech,"Centurium Capital, Cedarlake Capital, Unicom Innovation Venture Capital",B2B
+Wenheyou,$1.55,4/17/2021,China,Hunan,Consumer & Retail,"Sequoia Capital China, Warburg Pincus, IDG Capital",B2C
+Kitopi,$1.55,7/1/2021,United Arab Emirates,Dubai,Consumer & Retail,"CE-Ventures, BECO Capital, Nordstar",B2C
+Ximalaya FM,$1.52,9/22/2017,China,Shanghai,Media & Entertainment,"China Creation Ventures, Sierra Ventures, Xingwang Investment Management",B2C
+Carzone,$1.52,3/1/2019,China,Jiangsu,Industrials,"Alibaba Group,Co-Stone Venture Capital, Buhuo Venture Capital",B2B
+Tabby,$1.50,11/1/2023,United Arab Emirates,Dubai,Financial Services,"Arbor Ventures, STV, Global Founders Capital",B2B
+Runway,$1.50,5/4/2023,United States,New York,Media & Entertainment,"Lux Capital, Compound, Amplify Partners",B2C
+Skild AI,$1.50,7/9/2024,United States,Pittsburgh,Industrials,"CRV, General Catalyst, Menlo Ventures",B2B
+Sigma Computing,$1.50,5/16/2024,United States,San Francisco,Enterprise Tech,"Sutter Hill Ventures, Snowflake Ventures, NewView Capital",B2B
+Harvey,$1.50,7/23/2024,United States,San Francisco,Enterprise Tech,"OpenAI Startup Fund, Kleiner Perkins, Sequoia Capital",B2B
+OpenWeb,$1.50,11/9/2021,United States,New York,Media & Entertainment,"Insight Partners, AltaIR Capital, Norma Investments",B2C
+bolttech,$1.50,7/1/2021,Singapore,,Insurance,"Mundi Ventures, Doqling Capital Partners, Activant Capital",Unknown
+First Mode,$1.50,12/7/2022,United States,Seattle,Industrials,Anglo American,B2B
+Mu Sigma,$1.50,2/7/2013,United States,Northbrook,Enterprise Tech,"Sequoia Capital, General Atlantic",B2B
+Kushki,$1.50,6/7/2022,Ecuador,Quito,Financial Services,"Clocktower Technology Ventures, DILA Capital, Kaszek Ventures",B2B
+Jasper,$1.50,10/17/2022,United States,Austin,Enterprise Tech,"Foundation Capital, Institutional Venture Partners, Founders Capital",B2B
+Orna Therapeutics,$1.50,8/16/2022,United States,Cambridge,Healthcare & Life Sciences,"MPM Capital, Astellas Venture Management, F2 Ventures",B2B/B2C
+TuJia,$1.50,6/17/2015,China,Beijing,Consumer & Retail,"GGV Capital, QiMing Venture Partnersl",B2C
+Mofang Living,$1.50,4/13/2016,China,Shanghai,Consumer & Retail,"Warburg Pincus, Aviation Industry Corporation of China",B2C
+DT Dream,$1.50,6/8/2017,China,Hangzhou,Enterprise Tech,"Alibaba Group, China Everbright Investment Management, Yinxinggu Capital",B2B
+Changingedu,$1.50,10/30/2017,China,Shanghai,Consumer & Retail,"Trustbridge Partners, IDG Capital, Sequoia Capital China",B2C
+XiaoZhu,$1.50,11/1/2017,China,Beijing,Consumer & Retail,"Morningside Ventures, Capital Today, JOY Capital",B2C
+JOLLY Information Technology,$1.50,5/29/2018,China,Hangzhou,Consumer & Retail,"Legend Capital, CDH Investments, Sequoia Capital China",B2C
+Yijiupi,$1.50,9/20/2018,China,Beijing,Consumer & Retail,"Source Code Capital, Meituan Dianping, Tencent Holdings",B2C
+Cambridge Mobile Telematics,$1.50,12/19/2018,United States,Cambridge,Insurance,SoftBank Group,Unknown
+Collective Health,$1.50,6/17/2019,United States,San Francisco,Healthcare & Life Sciences,"New Enterprise Associates, Founders Fund, Google Ventures",B2B/B2C
+Strava,$1.50,11/16/2020,United States,San Francisco,Healthcare & Life Sciences,"Jackson Square Ventures, Madrone Capital Partners, Sequoia Capital",B2B/B2C
+Zenoti,$1.50,12/15/2020,United States,Bellevue,Consumer & Retail,"Norwest Venture Partners, Accel, Tiger Global Management",B2C
+K Health,$1.50,1/19/2021,United States,New York,Healthcare & Life Sciences,"Max Ventures, Mangrove Capital Partners, 14W",B2B/B2C
+Uplight,$1.50,3/3/2021,United States,Boulder,Industrials,"Rubicon Technology Partners, Max Ventures, Inclusive Capital Partners",B2B
+Snapdocs,$1.50,5/25/2021,United States,San Francisco,Financial Services,"Sequoia Capital, Y Combinator, F-Prime Capital",B2B
+Chipper Cash,$2,5/31/2021,United States,San Francisco,Financial Services,"Deciens Capital, Bezos Expeditions, 500 Startups",B2B
+Ledger,$1.47,6/10/2021,France,Paris,Financial Services,"Digital Currency Group, Draper Esprit, Korelya Capital",B2B
+Next Silicon,$1.50,6/14/2021,Israel,Tel Aviv,Enterprise Tech,"Amiti Ventures, Playground Global, Aleph",B2B
+YQNlink,$1.50,6/29/2021,China,Shanghai,Industrials,"Source Code Capital, Coatue Management, DCM Ventures",B2B
+impact.com,$1.50,7/13/2021,United States,Santa Barbara,Enterprise Tech,"Redpoint Ventures, Providence Equity Partners, Silversmith Capital Partners",B2B
+SmartRecruiters,$1.50,7/20/2021,United States,San Francisco,Enterprise Tech,"Mayfield Fund, Insight Partners, Rembrandt Venture Partners",B2B
+NotCo,$1.50,7/26/2021,Chile,Santiago,Consumer & Retail,"Kaszek Ventures, SOSV, Tiger Global Management",B2C
+Culture Amp,$1.50,7/29/2021,Australia,Richmond,Enterprise Tech,"Felicis Ventures, Index Ventures, Blackbird Ventures",B2B
+TaxBit,$1.50,8/4/2021,United States,Draper,Financial Services,"Insight Partners, Coinbase Ventures, PayPal Ventures",B2B
+Pacaso,$1.50,3/24/2021,United States,Cincinnati,Financial Services,"Global Founders Capital, Shea Ventures, Greycroft",B2B
+1047 Games,$1.50,9/14/2021,United States,Zephyr Cove,Media & Entertainment,"VGames, Lakestar, Galaxy Interactive",B2C
+Matillion,$1.50,9/15/2021,United Kingdom,Altrincham,Enterprise Tech,"Scale Venture Partners, Sapphire Ventures, Battery Ventures",B2B
+Persona,$1.50,9/15/2021,United States,San Francisco,Enterprise Tech,"Coatue Management, Index Ventures, Founders Fund",B2B
+Ascend Money,$1.50,9/27/2021,Thailand,Bangkok,Financial Services,"Ant Group, Charoen Pokphand Group, Bow Wave Capital",B2B
+Andela,$1.50,9/29/2021,United States,New York,Enterprise Tech,"Spark Capital, Google Ventures, CRE Venture Capital",B2B
+Built,$1.50,9/30/2021,United States,Nashville,Financial Services,"Nyca Partners, Index Ventures, Technology Crossover Ventures",B2B
+CoinList,$1.50,10/15/2021,United States,San Francisco,Financial Services,"Accomplice, Polychain Capital, GoldenTree Asset Management",B2B
+Lusha,$1.50,11/10/2021,United States,New York,Enterprise Tech,"PSG, ION Crossover Partners",B2B
+cult.fit,$1.50,11/10/2021,India,Bengaluru,Healthcare & Life Sciences,"Chiratae Ventures, Accel, Kalaari Capital",B2B/B2C
+Olist,$1.50,12/15/2021,Brazil,Curitiba,Consumer & Retail,"Redpoint e.ventures, Valor Capital Group, SoftBank Latin America Fund",B2C
+Paradox,$1.50,12/27/2021,United States,Scottsdale,Enterprise Tech,"Brighton Park Capital, Blue Cloud Ventures, Workday Ventures",B2B
+Airbyte,$1.50,12/17/2021,United States,San Francisco,Enterprise Tech,"Accel, Benchmark, SV Angel",B2B
+StoreDot,$1.50,1/4/2022,Israel,Herzliya,Industrials,"Samsung Ventures, SingulariTeam, BP Ventures",B2B
+Spendesk,$1.50,1/18/2022,France,Paris,Enterprise Tech,"Index Ventures, Eight Roads Ventures, General Atlantic",B2B
+Veriff,$1.50,1/26/2022,Estonia,Tallinn,Enterprise Tech,"Accel, Institutional Venture Partners, Tiger Global Management",B2B
+ElasticRun,$1.50,2/7/2022,India,Pune,Industrials,"Kalaari Capital, Norwest Venture Partners, Prosus Ventures",B2B
+Veho,$1.50,12/21/2021,United States,Boulder,Consumer & Retail,"General Catalyst, Origin Ventures, Fontinalis Partners",B2C
+Temporal,$1.50,2/16/2022,United States,Bellevue,Enterprise Tech,"Amplify Partners, Addition, Madrona Venture Group",B2B
+Fabric,$1.50,2/24/2022,United States,Bellevue,Consumer & Retail,"Redpoint Ventures, Norwest Venture Partners, Sierra Ventures",B2C
+Zeta,$1.50,5/24/2021,United States,San Francisco,Financial Services,"Sodexo Ventures, SoftBank Group",B2B
+Boba,$1.50,4/5/2022,United States,San Francisco,Enterprise Tech,"DeFi Technologies, Hypersphere Ventures, M13",B2B
+Upside,$1.50,4/26/2022,United States,DC,Consumer & Retail,"Bessemer Venture Partners, Builders VC, General Catalyst",B2C
+Mashgin,$1.50,5/9/2022,United States,Palo Alto,Consumer & Retail,"New Enterprise Associates, Matrix Partmers, Susa Ventures",B2C
+Dock,$1.50,5/12/2022,Brazil,Sao Paulo,Financial Services,"Viking Global Investors, Riverwood Capital, Lightrock",B2B
+Prometheus,$1.50,9/23/2021,United States,Santa Cruz,Industrials,"BMW i Ventures, Metaplanet, Maersk Growth",B2B
+5ire,$1.50,7/15/2022,United Kingdom,London,Enterprise Tech,"Global Emerging Markets, Sram & Mram Group, Marshland Capital",B2B
+Yipin Shengxian,$1.49,3/11/2019,China,Hefei,Consumer & Retail,"Eastern Bell Capital, Capital Today, Longzhu Capital",B2C
+Bordrin Motors,$1.48,6/3/2019,China,Shanghai,Industrials,"China Grand Prosperity Investment, CSC Group",B2B
+Arcadia,$1.48,5/10/2022,United States,DC,Enterprise Tech,"BoxGroup, Energy Impact Partners, Camber Creek",B2B
+VTS,$1.47,5/7/2019,United States,New York,Financial Services,"Trinity Ventures, Fifth Wall Ventures, OpenView Venture Partners",B2B
+Shukun Technology,$1.46,8/16/2021,China,Beijing,Healthcare & Life Sciences,"Marathon Venture Partners, Huagai Capital, China Creation Ventures",B2B/B2C
+Huasun,$1.46,1/19/2023,China,Xuancheng,Industrials,"Hongtai Capital Holdings, Jintou Zhiyuan",B2B
+Loft,$1.46,1/3/2020,Brazil,Sao Paulo,Financial Services,"Monashees+, Andreessen Horowitz, QED Investors",B2B
+Coocaa,$1.45,3/16/2018,China,Shenzhen,Media & Entertainment,"Baidu, Tencent Holdings",B2C
+Placer.ai,$1.45,1/12/2022,United States,Los Altos,Consumer & Retail,"Fifth Wall Ventures, JBV Capital, Array Ventures",B2C
+Juma Peisong,$1.45,11/26/2018,China,Chengdu,Industrials,"Ding Xiang Capital, New Hope Fund, Sino-Ocean Capital",B2B
+Ouyeel,$1.45,6/27/2019,China,Shanghai,Industrials,Taigang Venture Capital,B2B
+Gymshark,$1.45,8/14/2020,United Kingdom,Solihull,Consumer & Retail,General Atlantic,B2C
+M1,$1.45,7/14/2021,United States,Chicago,Financial Services,"Left Lane Capital, Clocktower Technology Ventures, Jump Capital",B2B
+Aleo,$1.45,2/7/2022,United States,San Francisco,Enterprise Tech,"Slow Ventures, Andreessen Horowitz, SoftBank Group",B2B
+Einride,$1.44,12/31/2021,Sweden,Stockholm,Industrials,"Temasek, BUILD Capital Partners, Northzone Ventures",B2B
+Justworks,$1.43,1/28/2020,United States,New York,Enterprise Tech,"Index Ventures, Thrive Capital, Bain Capital Ventures",B2B
+Valgen Medtech,$1.43,5/6/2021,China,Hangzhou,Healthcare & Life Sciences,"Sequoia Capital China, China Life Investment Holding Company, Qiming Venture Partners",B2B/B2C
+SonderMind,$1.42,7/28/2021,United States,Denver,Healthcare & Life Sciences,"Kickstart Fund, General Catalyst, Drive Capital",B2B/B2C
+EON,$1.4,11/26/2024,United States,New York,Enterprise Tech,"Lightspeed Venture Partners, Sequoia Capital, Bond",B2B
+Route,$1.4,1/21/2022,United States,Lehi,Enterprise Tech,"Album VC, Madrona Venture Group, Craft Ventures",B2B
+NIUM,$1.4,7/13/2021,Singapore,,Financial Services,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",B2B
+Fox Ess,$1.40,5/26/2023,China,Wenzhou,Industrials,"Sparkedge Capital, Guotai Ruichengde Asset Management",B2B
+Amagi,$1.40,3/16/2022,India,Bengaluru,Media & Entertainment,"Mayfield, Accel, Norwest Venture Partners",B2C
+Liquid Death,$1.40,3/11/2024,United States,Santa Monica,Consumer & Retail,"Science Media, Live Nation Labs, Velvet Sea Ventures",B2C
+Papa,$1.40,11/4/2021,United States,Miami,Healthcare & Life Sciences,"Initialized Capital, Canaan Partners, Sound Ventures",B2B/B2C
+Xpressbees,$1.40,2/9/2022,India,Pune,Consumer & Retail,"Norwest Venture Partners, Investcorp, Blackstone",B2C
+Figment,$1.40,12/20/2021,Canada,Toronto,Financial Services,"Bonfire Ventures, Two Sigma Ventures, FJ Labs",B2B
+Envoy,$1.40,1/11/2022,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Initialized Capital, TriplePoint Capital",B2B
+Deliverect,$1.40,1/24/2022,Belgium,Ghent,Consumer & Retail,"Newion Partners, SmartFin Capital, OMERS Ventures",B2C
+SparkCognition,$1.40,1/25/2022,United States,Austin,Enterprise Tech,"March Capital Partners, Temasek, Doha Venture Capital",B2B
+Liquidity,$1.40,2/20/2023,Israel,Tel Aviv,Financial Services,"MUFG Innovation Partners, Spark Capital",B2B
+Firebolt,$1.40,1/26/2022,Israel,Tel Aviv,Enterprise Tech,"TLV Partners, Zeev Ventures, Bessemer Venture Partners",B2B
+AI21 Labs,$1.40,8/30/2023,Israel,Tel Aviv,Enterprise Tech,"Walden Catalyst Ventures, Pitango Venture Capital, TPY Capital",B2B
+Koudai,$1.40,10/23/2014,China,Beijing,Consumer & Retail,"New Enterprise Associates, Tiger Global Management, Tencent",B2C
+Symphony,$1.40,5/16/2017,United States,New York,Financial Services,"BNP Paribas, Goldman Sachs, Google",B2B
+Yidian Zixun,$1.40,10/17/2017,China,Beijing,Media & Entertainment,"Phoenix New Media, Tianjin Haihe Industry Fund",B2C
+Cabify,$1.40,1/22/2018,Spain,Madrid,Industrials,"Seaya Ventures, Otter Rock Capital, Rakuten",B2B
+Hive Box,$1.40,1/23/2018,China,Shenzhen,Consumer & Retail,"Eastern Bell Capital, SF Holding Co, STO Express",B2C
+Away,$1.40,5/15/2019,United States,New York,Consumer & Retail,"Global Founders Capital, Comcast Ventures, Forerunner Ventures",B2C
+Kong,$2,12/31/2020,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, CRV, Index Ventures",B2B
+Epidemic Sound,$1.40,3/11/2021,Sweden,Stockholm,Media & Entertainment,"EQT Partners, Blackstone",B2C
+Yotpo,$1.40,3/18/2021,United States,New York,Consumer & Retail,"Bessemer Venture Partners, Vintage Investment Partners, Blumberg Capital",B2C
+Rebel Foods,$1.40,10/7/2021,India,Pune,Consumer & Retail,"Sequoia Capital India, Lightbox Ventures, Coatue Management",B2C
+Coda,$1.40,7/8/2021,United States,Mountain View,Enterprise Tech,"Greylock Partners, General Catalyst, Khosla Ventures",B2B
+Stash,$1.40,2/3/2021,United States,New York,Financial Services,"Goodwater Capital, Entree Capital, Valar Ventures",B2B
+Rad Power Bikes,$1.40,10/28/2021,United States,Seattle,Industrials,"Durable Capital Partners, Cercano Management, T. Rowe Price",B2B
+Clarify Health,$1.40,4/5/2022,United States,San Francisco,Healthcare & Life Sciences,"KKR, Aspenwood Ventures, Spark Capital",B2B/B2C
+Bucketplace,$1.40,5/9/2022,South Korea,Seoul,Consumer & Retail,"IMM Investment, Mirae Asset Capital, BOND",B2C
+Paddle,$1.40,5/9/2022,United Kingdom,London,Enterprise Tech,"Notion Capital, Kindred Capital, BGF Ventures",B2B
+OneCard,$1.40,7/13/2022,India,Pune,Financial Services,"Sequoia Capital India, Hummingbird Ventures, Matrix Partners India",B2B
+boAT,$1.40,10/28/2022,India,Mumbai,Consumer & Retail,"Qualcomm Ventures, Fireside Ventures",B2C
+Phenom People,$1.40,4/7/2021,United States,Ambler,Enterprise Tech,"Sierra Ventures, AXA Venture Partners, Sigma Prime Ventures",B2B
+GupShup,$1.40,4/8/2021,United States,San Francisco,Enterprise Tech,"Helion Venture Partners, Tiger Global management, CRV",B2B
+Degreed,$1.40,4/13/2021,United States,Pleasanton,Enterprise Tech,"Signal Peak Ventures, Owl Ventures, Jump Capital",B2B
+Scalable Capital,$1.40,6/8/2021,Germany,Munich,Financial Services,"BlackRock, Tengelmann Ventures, Holtzbrinck Ventures",B2B
+VideoAmp,$1.40,10/21/2021,United States,Los Angeles,Enterprise Tech,"Simon Equity Partners, Wavemaker Partners, Anthem Venture Partners",B2B
+Panther Labs,$1.40,12/2/2021,United States,San Francisco,Enterprise Tech,"Innovation Endeavors, s28 Capital, Lightspeed Venture Partners",B2B
+Salt Security,$1.40,2/10/2022,United States,Palo Alto,Enterprise Tech,"Y Combinator, S Capital, Tenaya Capital",B2B
+Tripledot,$1.40,2/14/2022,United Kingdom,London,Media & Entertainment,"Lightspeed Venture Partners, Access Industries, Eldridge",B2C
+Nimble Rx,$1.40,6/14/2022,United States,Redwood City,Healthcare & Life Sciences,"Sequoia Capital, Four Rivers Group, DAG Ventures",B2B/B2C
+Veepee,$1.38,7/2/2007,France,La Plaine Saint-Denis,Consumer & Retail,"Summit Partners, Qatar Holding",B2C
+Neon,$1.38,2/14/2022,Brazil,Sao Paulo,Financial Services,"Propel Venture Partners, Monashees+, BBVA",B2B
+Movable Ink,$1.36,4/28/2022,United States,New York,Enterprise Tech,"Contour Venture Partners, Intel Capital, Silver Lake",B2B
+Patreon,$1.35,9/2/2020,United States,San Francisco,Media & Entertainment,"Index Ventures, Thrive Capital, CRV",B2C
+DeepBlue Technology,$1.35,4/16/2018,China,Shanghai,Consumer & Retail,"DESUN Capital, Yunfeng Capital, Meridian Capital",B2C
+Klook,$1.35,8/7/2018,Hong Kong,Central,Consumer & Retail,"Sequoia Capital China, Goldman Sachs, Matrix Partners China",B2C
+Epirus,$1.35,2/14/2022,United States,Hawthorne,Industrials,"8VC, Bedrock Capital, Broom Ventures",B2B
+Signifyd,$1.34,4/15/2021,United States,San Jose,Consumer & Retail,"Menlo Ventures, Resolute Ventures, IA Ventures",B2C
+Jaguar Microsystems,$1.34,6/23/2022,China,Shenzhen,Industrials,"Tencent Holdings, Glory Ventures, Shenzhen Capital Group",B2B
+Motorway,$1.33,11/29/2021,United Kingdom,London,Industrials,"Marchmont Ventures, BMW i Ventures, Index Ventures",B2B
+Human Interest,$1.33,8/4/2021,United States,San Francisco,Financial Services,"Wing Venture Capital, Slow Ventures, Uncork Capital",B2B
+RIDI,$1.33,1/24/2022,South Korea,Seoul,Media & Entertainment,"Atinum Investment, Company K Partners, GIC",B2C
+Lyten,$1.33,9/12/2023,United States,San Jose,Industrials,"Honeywell Ventures, Prime Movers Lab, Footprint Coalition Ventures",B2B
+Flipboard,$1.32,7/22/2015,United States,Palo Alto,Media & Entertainment,"Kleiner Perkins Caufield & Byers, Comcast Ventures, Insight Partners",B2C
+GPclub,$1.32,10/22/2018,South Korea,Seoul,Consumer & Retail,Goldman Sachs,B2C
+Tongdun Technology,$1.32,4/25/2019,China,Hangzhou,Enterprise Tech,"Advantech Capital, Temasek Holdings Ltd., Tiantu Capital Co.",B2B
+Athletic Greens,$1.32,1/25/2022,United States,New York,Healthcare & Life Sciences,"SC.Holdings, Not Boring Capital, Bolt Ventures",B2B/B2C
+Unisound,$1.31,7/19/2018,China,Beijing,Enterprise Tech,"Qiming Venture Partners, China Internet Investment Fund, Qualcomm Ventures",B2B
+Alzheon,$1.31,9/30/2020,United States,Framingham,Healthcare & Life Sciences,"ARCH Venture Partners, Ally Bridge Group",B2B/B2C
+MasterControl,$1.30,12/15/2022,United States,Salt Lake City,Healthcare & Life Sciences,InnoVentures Capital Partners,B2B/B2C
+24M Technology,$1.30,9/5/2024,United States,Cambridge,Industrials,"North Bridge Venture Partners, CRV, Shumway Capital",B2B
+eFishery,$1.30,5/25/2023,Indonesia,Bandung,Industrials,"Aqua-Spark, Wavemaker Partners, Peak XV Partners",B2B
+Purplle,$1.3,6/9/2022,India,Mumbai,Consumer & Retail,"Blume Ventures, JSW Ventures, IvyCap Ventures",B2C
+Ather Energy,$1.30,08/13/2024,India,Bangalore,Industrials,021 Capital,B2B
+Zum,$1.30,01/31/2024,United States,Redwood City,Industrials,"Sequoia Capital, BMW i Ventures, Spark Capital",B2B
+HeartFlow,$1.30,12/4/2017,United States,Redwood City,Healthcare & Life Sciences,"BlueCross BlueShield Venture Partners, US Venture Partners",B2B/B2C
+Shiprocket,$1.23,8/16/2022,India,New Delhi,Consumer & Retail,"Bertelsmann India Investments, March Capital Partners, Tribe Capital, Nirvana Venture Advisors",B2C
+HashKeyHashKey,$1.30,01/16/2024,Hong Kong,,Financial Services,OKX Ventures,B2B
+Everly Health,$1.30,12/3/2020,United States,Austin,Healthcare & Life Sciences,"Highland Capital Partners, Next Coast Ventures, SoGal Ventures",B2B/B2C
+Manner,$1.30,12/24/2020,China,Shanghai,Consumer & Retail,"Coatue Management, H Capital, Capital Today",B2C
+DistroKid,$1.30,8/16/2021,United States,New York,Media & Entertainment,"Insight Partners, Silversmith Capital Partners, Spotify",B2C
+Konfio,$1.30,9/29/2021,Mexico,Mexico City,Financial Services,"Kaszek Ventures, QED Investors, International Finance Corporation",B2B
+Betterment,$1.30,9/29/2021,United States,New York,Financial Services,"Bessemer Venture Partners, Menlo Ventures, Anthermis",B2B
+Flock Freight,$1.30,10/20/2021,United States,Encinitas,Industrials,"SignalFire, GLP Capital Partners, Google Ventures",B2B
+YugaByte,$1.30,10/28/2021,United States,Sunnyvale,Enterprise Tech,"Lightspeed Venture Partners, Dell Technologies Capital, Wipro Ventures",B2B
+Lukka,$1.30,1/14/2022,United States,New York,Financial Services,"Liberty City Ventures, Soros Fund Management, Summer Capital",B2B
+TravelPerk,$1.30,1/12/2022,Spain,Barcelona,Enterprise Tech,"LocalGlobe, Kinnevik, Felix Capital",B2B
+iTrustCapital,$1.30,1/11/2022,United States,Long Beach,Financial Services,"Left Lane Capital, Walden Venture Capital",B2B
+Domestika,$1.30,1/27/2022,United States,Berkeley,Media & Entertainment,"Zeev Ventures, GSV Ventures",B2C
+CoinTracker,$1.30,1/27/2022,United States,San Francisco,Financial Services,"Initialized Capital, General Catalyst, Kraken Ventures",B2B
+Loadsmart,$1.30,2/1/2022,United States,New York,Industrials,"Chromo Invest, Maersk Growth, BlackRock",B2B
+TUNGEE,$1.30,12/15/2021,China,Guangzhou,Enterprise Tech,"UNITY VENTURES, Qiming Venture Partners, GGV Capital",B2B
+Yubi,$1.5,3/7/2022,India,Chennai,Financial Services,"Insight Partners, B Capital Group, Lightspeed Venture Partners",B2B
+LinkTree,$1.30,3/16/2022,Australia,Melbourne,Media & Entertainment,"AirTree Ventures, Insight Partners, Index Ventures",B2C
+Clipboard Health,$1.30,2/1/2022,United States,San Francisco,Healthcare & Life Sciences,"Caffeinated Capital, Initialized Capital, Y Combinator",B2B/B2C
+Biofourmis,$1.30,4/26/2022,United States,Boston,Healthcare & Life Sciences,"General Atlantic, CVS Health, MassMutual Ventures",B2B/B2C
+STORD,$1.30,9/13/2021,United States,Atlanta,Industrials,"Dynamo VC, Susa Ventures, Founders Fund",B2B
+Optibus,$1.30,5/16/2022,Israel,Tel Aviv,Industrials,"Bessemer Venture Partners, Insight Partners, Pitango Venture Capital",B2B
+Keyfactor,$1.30,10/24/2023,United States,Independence,Enterprise Tech,"GM Ventures, Plymouth Growth Partners, Insight Partners",B2B
+Equashield,$1.30,10/6/2022,United States,Port Washington,Healthcare & Life Sciences,Nordic Capital,B2B/B2C
+Intercom,$1.28,3/27/2018,United States,San Francisco,Enterprise Tech,"FirstMark Capital, Tiger Global Management",B2B
+OVO Energy,$1.28,2/14/2019,United Kingdom,Bristol,Industrials,"Mitsubishi Corporation, Mayfair Equity Partners",B2B
+Huisuanzhang,$1.28,5/24/2021,China,Beijing,Financial Services,"IDG Capital, Gaocheng Capital, Chuanrong Capital",B2B
+WTOIP,$1.27,4/8/2018,China,Guangzhou,Enterprise Tech,"Dark Horse Technology Group, Hopu Investment Management, Kefa Capital",B2B
+PeopleCert,$1.27,6/23/2021,Greece,Athens,Enterprise Tech,FTV Capital,B2B
+Greater Bay Technology,$1.26,4/2/2022,China,Guangzhou,Industrials,"Tencent Holdings, Utrust Venture Capital, GF Xinde Investment Management Co.",B2B
+JMGO,$1.26,3/15/2022,China,Shenzhen,Industrials,"IDG Capital, Yuanda Venture Investment, Primitive Forest Holdings Group",B2B
+Codeium,$1.25,8/29/2024,United States,Sacramento,Enterprise Tech,"General Catalyst, Kleiner Perkins, Founders Fund",B2B
+BigID,$1.25,12/16/2020,United States,New York,Enterprise Tech,"BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",B2B
+Polyhedra Network,$1.25,03/14/2024,United States,San Francisco,Enterprise Tech,"MH Ventures, Symbolic Capital, UOB Venture Management",B2B
+Kuaikan Manhua,$1.25,12/1/2017,China,Beijing,Media & Entertainment,"Sequoia Capital China, CMC Capital Partners, Tencent Holdings",B2C
+Marshmallow,$1.25,9/8/2021,United Kingdom,London,Insurance,"Passion Capital, Hedosophia, Outrun Ventures",Unknown
+Honor Technology,$1.25,10/5/2021,United States,San Francisco,Healthcare & Life Sciences,"Andreessen Horowitz, Prosus Ventures, Thrive Capital",B2B/B2C
+Together AI,$1.25,3/13/2024,United States,San Francisco,Enterprise Tech,"Definition Capital, Long Journey Ventures, Lux Capital",B2B
+QI Tech,$1,10/31/2023,Brazil,Sao Paulo,Financial Services,General Atlantic,B2B
+Mythical Games,$1,11/4/2021,United States,Sherman Oaks,Media & Entertainment,"Javelin Venture Partners, Struck Capital, Alumni Ventures Group",B2C
+Incode Technologies,$1.25,12/7/2021,United States,San Francisco,Enterprise Tech,"Dila Capital, Framework Ventures, 3L",B2B
+Tackle.io,$1.25,12/21/2021,United States,Boise,Enterprise Tech,"Andreessen Horowitz, Bessemer Venture Partners, Coatue Management",B2B
+Flipdish,$1.25,1/13/2022,Ireland,Dublin,Consumer & Retail,"Tencent Holdings, Tiger Global Management, Global Founders Capital",B2C
+CaptivateIQ,$1.25,1/26/2022,United States,San Francisco,Enterprise Tech,"Sequoia Capital, Y Combinator, Accel",B2B
+Talos,$1.25,5/10/2022,United States,New York,Financial Services,"Castle Island Ventures, PayPal Ventures, Andreessen Horowitz",B2B
+airSlate,$1.25,6/16/2022,United States,Brookline,Enterprise Tech,"G Squared, UiPath Ventures, General Catalyst",B2B
+ClassDojo,$1.25,7/21/2022,United States,San Francisco,Consumer & Retail,"General Catalyst, Unkork Capital, Tencent Holdings",B2C
+BrewDog,$1.24,4/10/2017,United Kingdom,Aberdeen,Consumer & Retail,"TSG Consumer Partners, Crowdcube",B2C
+Enflame,$1.24,1/5/2021,China,Shanghai,Enterprise Tech,"Tencent Holdings, Delta Capital, Redpoint Ventures China",B2B
+Shulan Health,$1.24,3/1/2021,China,Hangzhou,Healthcare & Life Sciences,Qiming Venture Partners,B2B/B2C
+SeatGeek,$1.24,8/31/2022,United States,New York,Media & Entertainment,"Accel, Founder Collective, Brainchild Holdings",B2C
+InDrive,$1.23,2/1/2021,United States,Mountain View,Industrials,"Leta Capital, Insight Partners, General Catalyst",B2B
+Spiber,$1.22,9/8/2021,Japan,Tsuruoka,Industrials,"Cool Japan Fund, JAFCO, The Carlyle Group",B2B
+Insider,$2,2/28/2022,Turkey,Istanbul,Enterprise Tech,"Wamda Capital, Endeavor, Riverwood Capital",B2B
+Kallyope,$1.22,2/15/2022,United States,New York,Healthcare & Life Sciences,"The Column Group, Alexandria Venture Investments, Lux Capital",B2B/B2C
+Zip,$2.2,5/25/2022,United States,San Francisco,Enterprise Tech,"CRV, Tiger Global Management, Y Combinator",B2B
+Cart.com,$1.20,6/27/2023,United States,Austin,Consumer & Retail,"Mercury Fund, Bearing Ventures, Moonshots Capital",B2C
+MiniMax AI,$1.2,6/1/2023,China,Shanghai,Enterprise Tech,"HongShan, IDG Capital",B2B
+Hailo,$1.2,10/12/2021,Israel,Tel Aviv,Enterprise Tech,"Glory Ventures, Maniv Mobility",B2B
+Replit,$1.05,4/25/2023,United States,San Francisco,Enterprise Tech,"Andreessen Horowitz, Bloomberg Beta, Reach Capital",B2B
+Perplexity AI,$1.05,4/23/2024,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, Institutional Venture Partners, NVentures",B2B
+MoneyView,$1.20,9/12/2024,India,Bengaluru,Financial Services,"Accel, Nexus Ventures, Nippon Life Global Investors America",B2B
+Mews,$1.20,3/4/2024,Netherlands,Amsterdam,Enterprise Tech,"Notion Capital, Revaia, Battery Ventures",B2B
+Creatio,$1.20,6/25/2024,United States,Boston,Enterprise Tech,Sapphire Ventures,B2B
+Our Next Energy,$1.20,2/1/2023,United States,Novi,Industrials,"BMW i Ventures, Breakthrough Energy Ventures, Volta Energy Technologies",B2B
+Castore,$1.20,11/29/2023,United Kingdom,Manchester,Consumer & Retail,"Felix Capital, Hanaco Ventures, Redrice Ventures",B2C
+Oyster,$1.2,4/20/2022,United States,Wilmington,Enterprise Tech,"Emergence Capital, Slack Fund, PayPal Ventures",B2B
+Yiguo,$1.20,11/9/2016,China,Shanghai,Consumer & Retail,"Alibaba Group, KKR, Goldman Sachs",B2C
+Glossier,$1.65,3/19/2019,United States,New York,Consumer & Retail,"Forerunner Ventures, Institutional Venture Partners, Thrive Capital",B2C
+Workhuman,$1.20,6/23/2020,Ireland,Dublin,Enterprise Tech,ICG,B2B
+Qumulo,$1.20,7/16/2020,United States,Seattle,Enterprise Tech,"Madrona Venture Group, Kleiner Perkins Caufield & Byers, Highland Capital Partners",B2B
+Tealium,$1.20,2/3/2021,United States,San Diego,Enterprise Tech,"Georgian Partners, Silver Lake, Presidio Ventures",B2B
+Public,$1.20,2/17/2021,United States,New York,Financial Services,"Accel, Greycroft, Advancit Capital",B2B
+Pipa Coding,$1.20,3/25/2021,China,Beijing,Consumer & Retail,"Source Code Capital, XVC Venture Capital, Hillhouse Capital Management",B2C
+Pilot,$1.20,3/26/2021,United States,San Francisco,Financial Services,"Index Ventures, Sequoia Capital, Bezos Expeditions",B2B
+Aibee,$1.20,4/13/2021,China,Beijing,Enterprise Tech,"Sequoia Capital China, Lenovo Capital and Incubator, Group GSR Ventures",B2B
+Vectra Networks,$1.20,4/29/2021,United States,San Jose,Enterprise Tech,"IA Ventures, Khosla Ventures, AME Cloud Ventures",B2B
+Ada,$1.20,5/7/2021,Canada,Toronto,Enterprise Tech,"Version One Ventures, Bessemer Venture Partners, FirstMark Capital",B2B
+SmartMore,$1.20,6/24/2021,China,Shenzhen,Industrials,"IDG Capital, ZhenFund, Sequoia Capital China",B2B
+Rohlik Group,$1.20,7/1/2021,Czech Republic,Prague,Consumer & Retail,"Partech Partners, Index Ventures, Quadrille Capital",B2C
+MindTickle,$1.20,8/3/2021,United States,San Francisco,Enterprise Tech,"Qualcomm Ventures, Accel, Canaan Partners",B2B
+Offchain Labs,$1.20,8/31/2021,United States,Princeton,Enterprise Tech,"Pantera Capital, Polychain Capital, Lightspeed Venture Partners",B2B
+Copado,$1.20,9/13/2021,United States,Chicago,Enterprise Tech,"Insight Partners, Salesforce Ventures, Perpetual Investors",B2B
+Gem,$1.20,9/28/2021,United States,San Francisco,Enterprise Tech,"Accel, Greylock Partners, Meritech Capital Partners",B2B
+EGYM,$1.20,9/24/2024,EGYM,Munich,Healthcare & Life Sciences,"Bayern Kapital, NGP Capital, High-Tech Grunderfonds",B2B/B2C
+CarDekho,$1.20,10/13/2021,India,Jaipur,Industrials,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",B2B
+The Good Glamm Group,$1.20,11/10/2021,India,Mumbai,Consumer & Retail,"L'Occitane, Trifecta Capital, Bessemer Venture Partners",B2C
+AgentSync,$1.20,12/7/2021,United States,Denver,Insurance,"Craft Ventures, Caffeinated Capital, Operator Collective",Unknown
+Pristyn Care,$1.40,12/7/2021,India,Gurugram,Healthcare & Life Sciences,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",B2B/B2C
+Merama,$1.20,12/9/2021,Mexico,Mexico City,Consumer & Retail,"SoftBank Latin America Fund, Advent International, Balderton Capital",B2C
+SeekOut,$1.20,1/12/2022,United States,Bellevue,Enterprise Tech,"Mayfield, Madrona Venture Group, Tiger Global Management",B2B
+BigPanda,$1.20,1/12/2022,United States,Mountain View,Enterprise Tech,"Advent International, Battery Ventures, Sequoia Capital Israel",B2B
+Phantom,$1.20,1/31/2022,United States,San Francisco,Financial Services,"Paradigm, Andreessen Horowitz, Jump Capital",B2B
+LivSpace,$1.20,2/8/2022,India,Bengaluru,Consumer & Retail,"Jungle Ventures, Helion Venture Partners, INGKA Investments",B2C
+Nova Labs,$1.20,2/22/2022,United States,San Francisco,Enterprise Tech,"FirstMark Capital, Tiger Global Management, FTX Venture",B2B
+Choco,$1.20,4/12/2022,Germany,Berlin,Consumer & Retail,"Bessemer Venture Partners, G Squared, Insight Partners",B2C
+Viz.ai,$1.20,4/7/2022,United States,San Francisco,Healthcare & Life Sciences,"Kleiner Perkins Caufield & Byers, CRV, Threshold Ventures",B2B/B2C
+Unit,$1.20,5/17/2022,United States,New York,Financial Services,"Accel, Better Tomorrow Ventures, Flourish Ventures",B2B
+stori,$1.20,7/15/2022,Mexico,Juarez,Financial Services,"Vision Plus Capital, Source Code Capital, Lightspeed Venture Partners",B2B
+Spectrum Medical,$1.20,7/18/2022,United Kingdom,Gloucester,Healthcare & Life Sciences,CVC Capital Partners,B2B/B2C
+Swiftly,$1.20,9/19/2022,United States,Seattle,Consumer & Retail,"Mendacre, BRV Capital Management, Liquid 2 Ventures",B2C
+CloudBees,$1.15,12/9/2021,United States,San Jose,Enterprise Tech,"Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",B2B
+DevRev,$1.15,7/25/2024,United States,Palo Alto,Enterprise Tech,"Khosla Ventures, Mayfield, Alumni Ventures",B2B
+Flink,$1.07,12/1/2021,Germany,Berlin,Consumer & Retail,"Mubadala Capital, Bond, Prosus Ventures",B2C
+Colossal,$1.19,1/31/2023,United States,Austin,Healthcare & Life Sciences,"Animal Capital, Breyer Capital, In-Q-Tel",B2B/B2C
+L&P Cosmetic,$1.19,1/1/2016,South Korea,Seoul,Consumer & Retail,CDIB Capital,B2C
+Mininglamp Technology,$1.19,3/27/2019,China,Beijing,Enterprise Tech,"Russia-China Investment Fund, Tencent Holdings, Sequoia Capital China",B2B
+Vestiaire Collective,$1.18,3/1/2021,France,Paris,Consumer & Retail,"Eurazeo, IDInvest Partners, Balderton Capital",B2C
+Luoji Siwei,$1.18,7/20/2017,China,Beijing,Media & Entertainment,"Sequoia Capital China, Qiming Venture Partners, Tencent Holdings",B2C
+Yimidida,$1.17,1/14/2019,China,Shanghai,Industrials,"Source Code Capital, Global Logistic Properties, K2VC",B2B
+Modern Health,$1.17,2/11/2021,United States,San Francisco,Healthcare & Life Sciences,"Kleiner Perkins Caufield & Byers, Afore Capital, Founders Fund",B2B/B2C
+IRL,$1.17,6/15/2021,United States,San Francisco,Media & Entertainment,"Goodwater Capital, Floodgate, Founders Fund",B2C
+Younited,$1.16,12/8/2022,France,Paris,Financial Services,"Weber Investissements, Schibsted Growth",B2B
+Uzum,$1.16,3/26/2024,Uzbekistan,Tashkent,Financial Services,FinSight Ventures,B2B
+SOURCE Global,$1.16,4/29/2022,United States,Scottsdale,Industrials,"Breakthrough Energy Ventures, Material Impact, 3x5 Special Opportunity Partners",B2B
+LifeMiles,$1.15,7/13/2015,Colombia,Bogota,Consumer & Retail,Advent International,B2C
+Guideline,$1.15,6/16/2021,United States,San Mateo,Financial Services,"Pelion Venture Partners, Foundation Capital, Thoma Bravo",B2B
+Rebellion Defense,$1.15,9/16/2021,United States,Washington DC,Industrials,"Venrock, Innovation Endeavors, Insights Partners",B2B
+Elemy,$1.15,10/6/2021,United States,San Francisco,Healthcare & Life Sciences,"General Catalyst, Bling Capital, Felicis Ventures",B2B/B2C
+TELD,$1.12,12/16/2019,China,Qingdao,Industrials,"China Reform Fund, Gaopeng Capital, Jinhui Xingye",B2B
+Chainguard,$1.12,7/25/2024,United States,Kirkland,Enterprise Tech,"Amplify Partners, MANTIS Venture Capital, Sequoia Capital",B2B
+Enable,$1.12,11/07/2023,United States,San Francisco,Enterprise Tech,"Menlo Ventures, Norwest Venture Partners, Sierra Ventures",B2B
+DANA,$1.13,8/10/2022,Indonesia,Jakarta,Financial Services,"Ant Group, Lazada, Sinar Mas Indonesia",B2B
+At-Bay,$1.12,7/27/2021,United States,Mountain View,Insurance,"Lightspeed Venture Partners, Khosla Ventures, Munich Re Ventures",Unknown
+Visby Medical,$1.12,3/1/2022,United States,San Jose,Healthcare & Life Sciences,"Artiman Ventures, Pitango Venture Capital, Valo Ventures",B2B/B2C
+Invoca,$1.10,6/14/2022,United States,Santa Barbara,Enterprise Tech,"Upfront Ventures, Accel, Industry Ventures",B2B
+TalkingData,$1.10,1/6/2021,China,Beijing,Enterprise Tech,"N5 Capital, CR Capital Mgmt, JD Digits",B2B
+Rapido,$1.10,7/29/2024,India,Madhapur,Industrials,"Nexus Venture Partners, Astarc Ventures, Shell Ventures",B2B
+ElevenLabs,$1.10,01/22/2024,United States,New York,Enterprise Tech,"Andreessen Horowitz, Credo Ventures, Sequoia Capital",B2B
+Wasabi,$1.10,9/27/2022,United States,Boston,Enterprise Tech,"Forestay Capital, Alumni Ventures, NTT DoCoMo Ventures",B2B
+Halan,$1,2/1/2023,Egypt,Cairo,Financial Services,"Middle East Venture Partners, Endeavor, Algebra Ventures",B2B
+Rokid,$1,11/20/2023,United States,Redwood City,Media & Entertainment,"IDG Capital, MFund, Linear Venture",B2C
+Krutrim,$1,01/26/2024,India,Bengaluru,Enterprise Tech,Matrix Partners India,B2B
+Headway,$1,10/5/2023,United States,Orlando,Healthcare & Life Sciences,"Accel, Thrive Capital, Andreessen Horowitz",B2B/B2C
+Flexe,$1,4/21/2022,United States,Seattle,Industrials,"Redpoint Ventures, Prologis Ventures, Madrona Venture Group",B2B
+TangoMe,$1.10,3/20/2014,United States,Mountain View,Media & Entertainment,"Draper Fisher Jurtson, Qualcomm Ventures, Alibaba Group",B2C
+AppDirect,$1.10,10/7/2015,United States,San Francisco,Enterprise Tech,"Mithril, iNovia Capital, Foundry Group",B2B
+Juanpi,$1.10,4/14/2016,China,Wuhan,Consumer & Retail,"Tiantu Capital, SAIF Partners China, Newsion Venture Capital",B2C
+OVH,$1.10,8/15/2016,France,Roubaix,Enterprise Tech,"KKR, TowerBrook Capital Partners",B2B
+GetYourGuide,$2,5/16/2019,Germany,Berlin,Consumer & Retail,"Spark Capital, Highland Europe, Sunstone Capital",B2C
+Ivalua,$1.10,5/21/2019,United States,Redwood City,Enterprise Tech,"Ardian, Tiger Global Management, KKR",B2B
+Sisense,$1.10,1/9/2020,United States,New York,Enterprise Tech,"Opus Capital, Genesis Partners, Battery Ventures",B2B
+Pharmapacks,$1.10,11/12/2020,United States,Islandia,Consumer & Retail,The Carlyle Group,B2C
+Sennder,$1.10,1/14/2021,Germany,Berlin,Industrials,"Accelm Scania Growth Capital, Lakestar",B2B
+Nexthink,$1.10,2/8/2021,Switzerland,Prilly,Enterprise Tech,"Auriga, Galeo Ventures, Highland Europe",B2B
+Zego,$1.10,3/9/2021,United Kingdom,London,Insurance,"LocalGlobe, Balderton Capital, Target Global",Unknown
+Rightway,$1.10,3/30/2021,United States,New York,Healthcare & Life Sciences,"Thrive Capital, Khosla Ventures, Tiger Global Management",B2B/B2C
+Sunbit,$1.10,5/20/2021,United States,Los Angeles,Financial Services,"Zeev Ventures, Group11, Chicago Ventures",B2B
+Qingting FM,$1.10,6/2/2021,China,Shanghai,Media & Entertainment,"China Culture Industrial Investment Fund, We Capital, China Minsheng Investment Group",B2C
+G2,$1.10,6/22/2021,United States,Chicago,Enterprise Tech,"Pritzker Group Venture Capital, Accel, Hyde Park Venture Partners",B2B
+Caribou,$1.10,5/23/2022,United States,Denver,Insurance,"CMFG Ventures, Accomplice, Moderne Ventures",Unknown
+Nowports,$1.10,5/24/2022,Mexico,Monterrey,Industrials,"Monashees+, Foundation Capital, Base10 Partners",B2B
+People.ai,$1.10,8/11/2021,United States,San Francisco,Enterprise Tech,"GGV Capital, Lightspeed Venture Partners, ICONIQ Capital",B2B
+Carousell,$1.10,9/15/2021,Singapore,,Consumer & Retail,"500 Global, Rakuten Ventures, Golden Gate Ventures",B2C
+apna,$1.10,9/15/2021,India,Bengaluru,Enterprise Tech,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",B2B
+Karat,$1.10,10/13/2021,United States,Seattle,Enterprise Tech,"8VC, Norwest Venture Partners, Tiger Global Management",B2B
+Enpal,$1.10,10/18/2021,Germany,Berlin,Industrials,"HV Capital, Softbank Group, BlackRock",B2B
+Acko General Insurance,$1.10,10/28/2021,India,Bengaluru,Insurance,"Intact Ventures, Munich Re Ventures, General Atlantic",Unknown
+Daily Harvest,$1.10,11/16/2021,United States,New York,Consumer & Retail,"M13, Lightspeed Venture Partners, Lone Pine Capital",B2C
+The Bank of London,$1.10,11/30/2021,United Kingdom,London,Financial Services,"Mangrove Capital Partners,14W. ForgeLight",B2B
+Fundbox,$1.10,11/30/2021,United States,San Francisco,Financial Services,"Khosla Ventures, General Catalyst, Blumberg Capital",B2B
+Turing,$1.10,12/20/2021,United States,Palo Alto,Enterprise Tech,"Foundation Capital, Frontier Ventures, AltaIR Capital",B2B
+GlobalBees,$1.10,12/28/2021,India,New Delhi,Consumer & Retail,"Chiratae Ventures, SoftBank Group, Trifecta Capital",B2C
+LEAD,$1.10,1/13/2022,India,Andheri,Consumer & Retail,"WestBridge Capital, GSV Ventures, Elevar Equity",B2C
+eSentire,$1.10,2/22/2022,Canada,Waterloo,Enterprise Tech,"Edison Partners, Georgian Partners, VentureLink",B2B
+Beyond Identity,$1.10,2/22/2022,United States,New York,Enterprise Tech,"New Enterprise Associates, Koch Disruptive Technologies, Evolution Equity Partners",B2B
+Staffbase,$1.10,3/15/2022,Germany,Chemnitz,Enterprise Tech,"Insight Partners, e.ventures, General Atlantic",B2B
+Chief,$1.10,3/31/2022,United States,New York,Consumer & Retail,"General Catalyst, Inspired Capital, Flybridge Capital Partners",B2C
+IntelyCare,$1.10,4/6/2022,United States,Quincy,Healthcare & Life Sciences,"Kaiser Permanente Ventures, Endeavour Vision, LRVHealth",B2B/B2C
+Teleport,$1.10,5/3/2022,United States,Oakland,Enterprise Tech,"Kleiner Perkins Caufield & Byers, s28 Capital, Insight Partners",B2B
+Imply Data,$1.10,5/17/2022,United States,Burlingame,Enterprise Tech,"Andreessen Horowitz, Bessemer Venture Partners, Khosla Ventures,",B2B
+Material Security,$1.10,5/11/2022,United States,Redwood City,Enterprise Tech,"Andreessen Horowitz, Founders Fund",B2B
+Recover,$1.10,6/9/2022,Spain,Banyeres de Mariola,Industrials,"Goldman Sachs Asset Management, STORY3 Capital Partners",B2B
+CAIS,$1.10,1/11/2022,United States,New York,Financial Services,"Franklin Templeton, Motive Partners. Apollo Global Management",B2B
+Nxin,$1.08,9/18/2018,China,Beijing,Industrials,"Beijing Juneng Hesheng Industry Investment Fund, Beijing Shuju Xinrong Fund",B2B
+UISEE Technology,$1.08,1/25/2021,China,Beijing,Industrials,"Shenzhen Capital Group, Robert Bosch Venture Capital, SeptWolves Ventures",B2B
+56PINGTAI,$1.08,1/25/2021,China,Shanghai,Industrials,"QF Capital, QC Capital, Unicom Innovation Venture Capital",B2B
+Cirkul,$1.07,6/13/2022,United States,Sarasota,Consumer & Retail,"AF Ventures, Siddhi Capital, SC.Holdings",B2C
+Radius Payment Solutions,$1.07,11/27/2017,United Kingdom,Crewe,Industrials,Inflexion Private Equity,B2B
+InCred,$1.05,11/09/2023,India,Mumbai,Financial Services,,B2B
+0x,$1.05,4/26/2022,United States,San Francisco,Financial Services,"Jump Capital, Pantera Capital, Greylock Partners",B2B
+Jiuxian,$1.05,7/30/2015,China,Beijing,Consumer & Retail,"Sequoia Capital China, Rich Land Capital, Merrysunny Wealth",B2C
+Instabase,$2,10/21/2019,United States,San Francisco,Enterprise Tech,"New Enterprise Associates, Greylock Partners, Andreessen Horowitz",B2B
+Sendbird,$1.05,4/6/2021,United States,San Mateo,Enterprise Tech,"FundersClub, Y Combinator, Tiger Global Management",B2B
+Density,$1.05,11/10/2021,United States,San Francisco,Enterprise Tech,"Founders Fund, Upfront Ventures, 01 Advisors",B2B
+Mixpanel,$1.05,11/15/2021,United States,San Francisco,Enterprise Tech,"Bain Capital Tech Opportunities, Andreessen Horowitz, Sequoia Capital",B2B
+Branch,$1.05,3/1/2022,United States,Columbus,Insurance,"American Family Ventures, Greycroft, SignalFire",Unknown
+OrCam Technologies,$1.03,2/20/2018,Israel,Jerusalem,Healthcare & Life Sciences,"Intel Capital, Aviv Venture Capital",B2B/B2C
+B&C Chemical,$1.02,4/19/2023,China,Pizhou,Industrials,"Suzhou International Development Venture Capital Holding, GP Capital",B2B
+Ample,$1.02,11/11/2021,United States,San Francisco,Industrials,"Shell Ventures, Blackstone, Moore Strategic Ventures",B2B
+Wheel,$1.01,1/19/2022,United States,Austin,Healthcare & Life Sciences,"Silverton Partners, Tusk Ventures, CRV",B2B/B2C
+EvenUp,$1,10/8/2024,United States,San Francisco,Enterprise Tech,"NFX, Lightspeed Venture Partners, Bessemer Venture Partners",B2B
+Kiteworks,$1,8/14/2024,United States,Palo Alto,Enterprise Tech,,B2B
+Rentberry,$1,9/6/2024,United States,San Francisco,Financial Services,"369 Growth Partners, GTM Capital, Berkeley Hills Capital",B2B
+Vestwell,$1,12/21/2023,United States,New York,Financial Services,"Fin Capital, Primary Venture Partners, Lightspeed Venture Partners",B2B
+Lighthouse,$1,11/24/2024,United Kingdom,London,Enterprise Tech,"F-Prime Capital, Eight Roads Ventures",B2B
+Moniepoint,$1,10/29/2024,Nigeria,Lagos,Financial Services,"Lightrock, Novastar Ventures, QED Investors",B2B
+Flo Health,$1,7/30/2024,United Kingdom,London,Healthcare & Life Sciences,"Flint Capital, Target Global, Vostok New Ventures",B2B/B2C
+Nimble,$1,10/23/2024,United States,San Francisco,Industrials,"GSR Ventures, Breyer Capital, Accel",B2B
+Halcyon,$1,11/25/2024,United States,Austin,Enterprise Tech,"Bain Capital Ventures, SYN Ventures, Evolution Equity Partners",B2B
+VectorBuilder,$1,10/10/2022,United States,Chicago,Healthcare & Life Sciences,Legend Capital,B2B/B2C
+EliseAI,$1,8/14/2024,United States,New York,Enterprise Tech,"Navitas Capital, Point72 Ventures, JLL Spark",B2B
+The Row,$1,9/12/2024,United States,New York,Consumer & Retail,,B2C
+Cosm,$1,7/31/2024,United States,Los Angeles,Media & Entertainment,Bolt Ventures,B2C
+The Sandbox,$1,6/6/2024,Malta,St. Julians,Media & Entertainment,"LG Technology Ventures, True Global Ventures, 1kx",B2C
+Minute Media,$1,01/30/2024,United States,New York,Media & Entertainment,"Dawn Capital, Battery Ventures, Gemini Israel Ventures",B2C
+World Labs,$1,7/17/2024,United States,Stanford,Enterprise Tech,"Andreessen Horowitz, Radical Ventures, New Enterprise Associates",B2B
+Merkle Manufactory,$1,03/30/2024,United States,Los Angeles,Media & Entertainment,"Standard Crypto, Andreessen Horowitz, Union Square Ventures",B2C
+Perfios,$1,03/13/2024,India,Mumbai,Financial Services,"Bessemer Venture Partners, Teachers' Venture Growth",B2B
+Saronic Technologies,$1,07/19/2024,United States,Austin,Industrials,"8VC, Caffeinated Capital, Andreessen Horowitz",B2B
+Sakana AI,$1,06/26/2024,Japan,Tokyo,Enterprise Tech,"Lux Capital, Khosla Ventures, New Enterprise Associates",B2B
+Tamara,$1,12/18/2023,Saudi Arabia,Riyadh,Financial Services,,B2B
+Aven,$1,7/17/2024,United States,San Fransisco,Financial Services,"Khosla Ventures, General Catalyst, Founders Fund",B2B
+Semperis,$1,6/20/2024,United States,Hoboken,Enterprise Tech,"Tech Pioneers Fund, Ten Eleven Ventures, Hudson Ventures",B2B
+Xreal,$1,01/29/2024,China,Beijing,Media & Entertainment,"Hongtai Capital Holdings, Shunwei Capital, GP Capital",B2C
+Silverfort,$1,01/23/2024,Israel,Tel Aviv,Enterprise Tech,"SingTel Innov8, Citi Ventures, Maor Investments",B2B
+Pigment,$1,04/03/2024,France,Paris,Enterprise Tech,"FirstMark Capital, Meritech Capital Partners, Institutional Venture Partners",B2B
+Huma,$1,07/16/2024,United Kingdom,London,Healthcare & Life Sciences,"Leaps by Bayer, Hitachi Ventures, Unilever Ventures",B2B/B2C
+IntraBio,$1,03/23/2024,United Kingdom,Oxfordshire,Healthcare & Life Sciences,,B2B/B2C
+Andalusia Labs,$1,12/13/2023,United Arab Emirates,Abu Dhabi,Enterprise Tech,"Framework Ventures, Bain Capital Ventures, Dale Ventures",B2B
+EmployerDirect Healthcare,$1,12/19/2023,United States,Dallas,Healthcare & Life Sciences,"Insight Partners, Texo Ventures",B2B/B2C
+Electric Hydrogen,$1,10/3/2023,United States,Natick,Industrials,"Prelude Ventures, Breakthrough Energy Ventures, Fifth Wall",B2B
+TechMet,$1,12/07/2023,Ireland,Dublin,Industrials,"S2G Ventures, Dale Ventures",B2B
+Altana AI,$1,7/29/2024,United States,New York,Enterprise Tech,"Google Ventures, Amadeus Capital Partners, Activate Capital",B2B
+MaintainX,$1,12/06/2023,United States,San Fransisco,Enterprise Tech,"August Capital, Ridge Ventures, Amity Ventures",B2B
+01.AI,$1,11/05/2023,China,Beijing,Enterprise Tech,,B2B
+MindMaze,$1,2/17/2022,Switzerland,Lausanne,Health,Hambro Perks,Unknown
+Avenue One,$1,5/15/2023,United States,New York,Financial Services,,B2B
+DataSnipper,$1,2/1/2024,Netherlands,Amsterdam,Enterprise Tech,Index Ventures,B2B
+Flashbots,$1,7/21/2023,Cayman Islands,Grand Cayman,Enterprise Tech,"Paradigm, Fabric Ventures",B2B
+Typeface,$1,6/29/2023,United States,Los Altos,Enterprise Tech,"Google Ventures, Salesforce Ventures, Menlo Ventures",B2B
+Imbue,$1,9/7/2023,United States,San Francisco,Enterprise Tech,,B2B
+Restaurant365,$1,5/19/2023,United States,Irvine,Consumer & Retail,Bessemer Venture Partners,B2C
+Kin,$1,9/13/2023,United States,Chicago,Insurance,"QED Investors, Commerce Ventures, Alpha Edison",Unknown
+KoBold Metals,$1,6/20/2023,United States,Berkeley,Industrials,"Andreessen Horowitz, Breakthrough Energy Ventures, Apollo Projects",B2B
+Go,$1,5/24/2023,Japan,Tokyo,Industrials,Mirai Creation Fund,B2B
+Percent,$1,11/30/2018,China,Beijing,Enterprise Tech,IDG Capital,B2B
+1Komma5,$1.08,6/23/2023,Germany,Hamburg,Industrials,"Porsche Ventures, G2VP, b2venture",B2B
+Gradiant,$1,5/17/2023,United States,Woburn,Industrials,"Safar Partners, WAVE Equity Partners, Cranberry Capital",B2B
+Palmetto,$1,2/24/2022,United States,Charleston,Industrials,"Greycroft, Lerer Hippeau, ArcTern Ventures",B2B
+Humanity Protocol,$1,2/28/2024,Hong Kong,,Financial Services,"Shima Capital, CMCC Global, MH Ventures",B2B
+Prove Identity,$1,6/18/2020,United States,New York,Enterprise Tech,"Opus Capital, RRE Ventures, Relay Ventures",B2B
+Character.AI,$1,3/3/2023,United States,Menlo Park,Media & Entertainment,Andreessen Horowitz,B2C
+Atmosphere,$1,2/7/2023,United States,Austin,Media & Entertainment,S3 Ventures,B2C
+Adept,$1,3/14/2023,United States,San Francisco,Enterprise Tech,"Greylock Partners, Addition, M12",B2B
+Beamery,$1,12/13/2022,United Kingdom,London,Enterprise Tech,"Index Ventures, EQT Ventures, Workday Ventures",B2B
+Flow,$1,8/15/2022,United States,New York,Financial Services,Andreessen Horowitz,B2B
+Xanadu,$1,11/9/2022,Canada,Toronto,Enterprise Tech,"BDC Capital, Georgian, Bessemer Venture Partners",B2B
+LINE MAN Wongnai,$1,9/26/2022,Thailand,Bangkok,Consumer & Retail,"BRV Capital Management, Bualuang Ventures",B2C
+Celestia,$1,10/19/2022,Liechtenstein,Vaduz,Enterprise Tech,"Placeholder Capital, Coinbase Ventures, Binance Ventures",B2B
+Stability AI,$1,10/5/2022,United Kingdom,London,Enterprise Tech,"Lightspeed Venture Partners, Coatue Management",B2B
+Satispay,$1,9/28/2022,Italy,Milan,Financial Services,"Lightrock, Greyhound Capital, Endeavor",B2B
+Paystand,$1,8/2/2022,United States,Scotts Valley,Financial Services,"BlueRun Ventures, LEAP Global Partners, Cervin Ventures",B2B
+Turntide Technologies,$1,6/15/2022,United States,Sunnyvale,Industrials,"Meson Capital Partners, Fifth Wall Ventures, OGCI Climate Investments",B2B
+EcoVadis,$1,6/14/2022,France,Paris,Enterprise Tech,"Astorg Partners, Princeville Global, Beyond Net Zero",B2B
+TransferMate,$1,5/22/2022,Ireland,Kilkenny,Financial Services,Railway Pension Trustee Co. Ltd.,B2B
+Lookout,$1,10/10/2013,United States,San Francisco,Enterprise Tech,"Accel Partners, Greylock Partners, Lowercase Capital",B2B
+Snapdeal,$1,5/21/2014,India,New Delhi,Consumer & Retail,"SoftBankGroup, Blackrock, Alibaba Group",B2C
+TechStyle Fashion Group,$1,8/29/2014,United States,El Segundo,Consumer & Retail,"Matrix Partners, Passport Capital, Rho Ventures",B2C
+Zebec,$1,8/29/2022,United States,San Francisco,Financial Services,"Resolute Ventures, Shima Capital, Circle Ventures",B2B
+InMobi,$1,12/2/2014,India,Bengaluru,Enterprise Tech,"Kleiner Perkins Caufield & Byers, Softbank Corp., Sherpalo Ventures",B2B
+LinkSure Network,$1,1/1/2015,China,Shanghai,Industrials,,B2B
+Red Ventures,$1,1/7/2015,United States,Fort Mill,Media & Entertainment,"Silver Lake Partners, General Atlantic",B2C
+BeiBei,$1,1/22/2015,China,Hangzhou,Consumer & Retail,"Banyan Capital, New Horizon Capital, IDG Capital Partners",B2C
+Lamabang,$1,3/6/2015,China,Shenzhen,Consumer & Retail,"5Y Capital, Matrix Partners China, K2VC",B2C
+Jimu,$1,4/21/2015,China,Beijing,Financial Services,"Matrix Partners China, Ventech China, Shunwei Capital Partners",B2B
+ShareCRM,$1,7/2/2015,China,Beijing,Enterprise Tech,"IDG Capital, Northern Light Venture Capital, DCM Ventures",B2B
+Mia.com,$1,9/8/2015,China,Beijing,Consumer & Retail,"Sequoia Capital China, ZhenFund, K2 Ventures",B2C
+58 Daojia,$1,10/12/2015,China,Beijing,Consumer & Retail,"KKR, Alibaba Group, Ping An Insurance",B2C
+Womai,$1,10/12/2015,China,Beijing,Consumer & Retail,"SAIF Partners China, Baidu, IDG Capital",B2C
+HuJiang,$1,10/29/2015,China,Shanghai,Consumer & Retail,"China Minsheng Investment, Baidu, Wanxin Media",B2C
+iTutorGroup,$1,11/18/2015,China,Shanghai,Consumer & Retail,"QiMing Venture Partners, Temasek Holdings, Silverlink Capital",B2C
+iCarbonX,$1,4/12/2016,China,Shenzhen,Healthcare & Life Sciences,"Tencent, Vcanbio",B2B/B2C
+Kendra Scott,$1,12/21/2016,United States,Austin,Consumer & Retail,"Berkshire Partners, Norwest Venture Partners",B2C
+Zhuan Zhuan,$1,4/18/2017,China,Beijing,Consumer & Retail,"58.com, Tencent Holdings",B2C
+Modernizing Medicine,$1,5/10/2017,United States,Boca Raton,Healthcare & Life Sciences,"Warburg Pincus, Summit Partners, Sands Capital",B2B/B2C
+DianRong,$1,8/2/2017,China,Shanghai,Financial Services,"Standard Chartered, FinSight Ventures, Affirma Capital",B2B
+YH Global,$1,9/21/2017,China,Shenzhen,Industrials,"Co-Energy Finance, Grandland",B2B
+Revolution Precrafted,$1,10/23/2017,Philippines,Manila,Industrials,"K2 Global, 500 Startups",B2B
+WeLab,$1,11/8/2017,Hong Kong,,Financial Services,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",B2B
+Maimai,$1,11/15/2017,China,Beijing,Media & Entertainment,"Morningside Venture Capital, IDG Capital, DCM Ventures",B2C
+Dxy.cn,$1,4/10/2018,China,Hangzhou,Healthcare & Life Sciences,"Tencent Holdings, DCM Ventures",B2B/B2C
+HMD Global,$1,5/21/2018,Finland,Espoo,Industrials,Ginko Ventures,B2B
+Huike Group,$1,5/24/2018,China,Beijing,Enterprise Tech,"Fosun RZ Capital, Oceanwide Holdings, Shenzhen Qianhe Capital Management Co.",B2B
+ChinaC.com,$1,6/11/2018,China,Wuxi,Enterprise Tech,"V Star Capital, GF Xinde Investment Management Co., Haitong Leading Capital Management",B2B
+LinkDoc Technology,$1,7/5/2018,China,Beijing,Healthcare & Life Sciences,"China Investment Corporation, New Enterprise Associates",B2B/B2C
+Movile,$1,7/12/2018,Brazil,Sao Paulo,Consumer & Retail,"Innova Capital - FIP, 3G Capital Management, Prosus Ventures",B2C
+Pat McGrath Labs,$1,7/16/2018,United States,New York,Consumer & Retail,"One Luxury Group, Eurazeo",B2C
+Wacai,$1,7/18/2018,China,Hangzhou,Financial Services,"Qiming Venture Partners, China Broadband Capital, CDH Investments",B2B
+FlashEx,$1,8/27/2018,China,Beijing,Industrials,"Prometheus Capital, Matrix Partners China, JD Capital Management",B2B
+Banma Network Technologies,$1,9/13/2018,China,Shanghai,Industrials,"Yunfeng Capital, SDIC Innovation Investment Management, Shang Qi Capital",B2B
+Tresata,$1,10/10/2018,United States,Charlotte,Financial Services,GCP Capital Partners,B2B
+Momenta,$1,10/17/2018,China,Beijing,Industrials,"Sinovation Ventures, Tencent Holdings, Sequoia Capital China",B2B
+Hosjoy,$1,10/18/2018,China,Nanjing,Consumer & Retail,"U.S.-China Green Fund, Founder H Fund, Richland Equities",B2C
+Omio,$1,10/23/2018,Germany,Berlin,Consumer & Retail,"Lakestar, Battery Ventures, New Enterprise Associates",B2C
+BitFury,$1,11/6/2018,Netherlands,Amsterdam,Enterprise Tech,"Georgian Co-Investment Fund, iTech Capital, Galaxy Digital",B2B
+REEF Technology,$1,12/10/2018,United States,Miami,Industrials,"Target Global, UBS Asset Management, Mubadala Capital",B2B
+Globality,$1,1/22/2019,United States,Menlo Park,Enterprise Tech,SoftBank Group,B2B
+Ynsect,$1,2/21/2019,France,Evry,Industrials,"Astanor Ventures, Upfront Ventures, IDInvest Partners",B2B
+Poizon,$1,4/29/2019,China,Shanghai,Consumer & Retail,"DST Global, Sequoia Capital China, Gaorong Capital",B2C
+SITECH DEV,$1,5/16/2019,China,Guiyang,Industrials,China Prosperity Capital,B2B
+KnowBox,$1,5/30/2019,China,Beijing,Consumer & Retail,"TAL Education Group, Legend Star, Alibaba Group",B2C
+Meero,$1,6/18/2019,France,Paris,Media & Entertainment,"Aglae Ventures, Global Founders Capital, Alven Capital",B2C
+C2FO,$1,8/7/2019,United States,Leawood,Financial Services,"Union Square Ventures, Summerhill Venture Partners, Mithril Capital Management",B2B
+Numbrs,$1,8/22/2019,Switzerland,Zurich,Financial Services,"Investment Corporation of Dubai, Centralway",B2B
+EBANX,$1,10/16/2019,Brazil,Curitiba,Financial Services,"FTV Capital, Endeavor",B2B
+KK Group,$3,10/23/2019,China,Dongguan,Consumer & Retail,"Matrix Partners China, Bright Venture Capita, Shenzhen Capital Group",B2C
+Hotmart,$1,3/17/2020,Netherlands,Amsterdam,Consumer & Retail,"Technology Crossover Ventures, Alkeon Capital Management, General Atlantic",B2C
+Dubizzle Group,$1,4/28/2020,United Arab Emirates,Dubai,Consumer & Retail,"OLX Group, KCK Group, EXOR Seeds",B2C
+Quizlet,$1,5/13/2020,United States,San Francisco,Consumer & Retail,"Union Square Ventures, Altos Ventures, Costanoa Ventures",B2C
+Orca Bio,$1,6/17/2020,United States,Menlo Park,Healthcare & Life Sciences,"Lightspeed Venture Partners, Data Collective, 8VC",B2B/B2C
+Infobip,$1,7/30/2020,Croatia,Vodnjan,Enterprise Tech,One Equity Partners,B2B
+Zwift,$1,9/16/2020,United States,Long Beach,Healthcare & Life Sciences,"Novator Partners, True, Causeway Media Partners",B2B/B2C
+Playco,$1,9/21/2020,Japan,Tokyo,Media & Entertainment,"Sozo Ventures, Caffeinated Capital, Sequoia Capital",B2C
+Gousto,$1.70,11/3/2020,United Kingdom,London,Consumer & Retail,"MMC Ventures, BGF Ventures, Unilever Ventures",B2C
+Alation,$1.70,6/3/2021,United States,Redwood City,Enterprise Tech,"Costanoa Ventures, Data Collective, Salesforce Ventures",B2B
+Boom Supersonic,$1,12/16/2020,United States,Englewood,Industrials,"WRVI Capital, Caffeinated Capital, Y Combinator",B2B
+Quantum Metric,$1,1/7/2021,United States,Colorado Springs,Enterprise Tech,"Insight Partners, Bain Capital Ventures",B2B
+News Break,$1,1/7/2021,United States,Mountain View,Media & Entertainment,"IDG Capital, Francisco Partners, ZhenFund",B2C
+MadeiraMadeira,$1,1/7/2021,Brazil,Parana,Consumer & Retail,"Flybridge Capital Partners, SoftBank Group, Monashees+",B2C
+PPRO,$1,1/19/2021,United Kingdom,London,Financial Services,"Wellington Management, Eurazeo, Citi Ventures",B2B
+Splashtop,$1,1/27/2021,United States,San Jose,Enterprise Tech,"Storm Ventures, DFJ DragonFund, New Enterprise Associates",B2B
+Flash Express,$1,2/1/2021,Thailand,Bangkok,Industrials,"SCB 10X, Krungsri Finnovate, eWTP Capital",B2B
+Axiom Space,$1,2/16/2021,United States,Houston,Industrials,"C5 Capital, Hemisphere Ventures, The Venture Collective",B2B
+Locus Robotics,$1,2/17/2021,United States,Wilmington,Industrials,"Scale Venture Partners, Bond, Tiger Global Management",B2B
+Standard AI,$1,2/17/2021,United States,San Francisco,Consumer & Retail,"CRV, Y Combinator, Initialized Capital",B2C
+Newsela,$1,2/25/2021,United States,New York,Consumer & Retail,"Owl Ventures, Technology Crossover Ventures, Tao Capital Partners",B2C
+Aqua Security,$1,3/10/2021,Israel,Ramat Gan,Enterprise Tech,"TLV Partners, Lightspeed Venture Partners, M12",B2B
+PatSnap,$1,3/16/2021,Singapore,,Enterprise Tech,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",B2B
+Evidation,$1,3/22/2021,United States,San Mateo,Healthcare & Life Sciences,"B Capital Group,, GE Ventures, McKesson Ventures",B2B/B2C
+Sidecar Health,$1,1/26/2021,United States,El Segundo,Healthcare & Life Sciences,"GreatPoint Ventures, Tiger Global Management, Menlo Ventures",B2B/B2C
+Feedzai,$1,3/24/2021,United States,San Mateo,Financial Services,"Global Founders Capital, Shea Ventures, Greycroft",B2B
+Cameo,$1,3/30/2021,United States,Chicago,Media & Entertainment,"Lightspeed Venture Partners, Kleiner Perkins Caufield & Byers, Origin Ventures",B2C
+Hyperchain,$1,4/11/2021,China,Hangzhou,Enterprise Tech,"Yinhong Equity Investment Fund, E Fund, Ideal International",B2B
+The Zebra,$1,4/12/2021,United States,Austin,Insurance,"Silverton Partners, Accel, Ballast Point Ventures",Unknown
+Fiture,$1,4/14/2021,China,Chengdu,Healthcare & Life Sciences,"Bertelsmann Asia Investments, Sequoia Capital China, NIO Capital",B2B/B2C
+Injective,$1,4/20/2021,United States,New York,Financial Services,"Pantera Capital, Cadenza Ventures, BlockTower Capital",B2B
+Sift,$1,4/22/2021,United States,San Francisco,Enterprise Tech,"Union Square Ventures, Insight Partners, Spark Capital",B2B
+Teya,$1,4/9/2021,United Kingdom,London,Financial Services,"Tiger Global Management, Hedosophia",B2B
+Capsule,$1,4/28/2021,United States,New York,Healthcare & Life Sciences,"Thrive Capital, Durable Capital Partners, G Squared",B2B/B2C
+MOLOCO,$1.50,4/29/2021,United States,Redwood City,Enterprise Tech,"Smilegate Investment, DSC Investments, KTB Ventures",B2B
+Inari,$1.65,5/12/2021,United States,Cambridge,Industrials,"Flagship Pioneering, Alexandria Venture Investments, Investment Corporation of Dubai",B2B
+Mux,$1,4/30/2021,United States,San Francisco,Media & Entertainment,"Accel, Cobalt Capital, Andreessen Horowitz",B2C
+XForcePlus,$1,6/1/2021,China,Shanghai,Enterprise Tech,"Eastern Bell Capital, Danhua Capital, MSA Capital",B2B
+Augustinus Bader,$1,11/9/2022,United Kingdom,London,Consumer & Retail,General Atlantic,B2C
+Shift,$1,5/6/2021,France,Paris,Insurance,"Griffin Gaming Partners, Andreessen Horowitz, Battery Ventures",Unknown
+Zihaiguo,$1,5/6/2021,China,Chongqing,Consumer & Retail,"Xingwang Investment Management, China Capital Investment Group, Matrix Partners China",B2C
+Forte Labs,$1.73,5/12/2021,United States,San Francisco,Media & Entertainment,"Iris Capital, Accel, Elaia Partners",B2C
+Axtria,$1,5/13/2021,United States,Berkeley Heights,Enterprise Tech,"Helion Venture Partners, Bain Capital Tech Opportunities, Sequoia Capital India",B2B
+Amount,$1,5/17/2021,United States,Chicago,Financial Services,"Invus Group, Hanaco Venture Capital, WestCap Group",B2B
+Vise,$1,5/18/2021,United States,New York,Financial Services,"Sequoia Capital, Founders Fund, Bling Capital",B2B
+Printful,$1,5/24/2021,United States,Charlotte,Consumer & Retail,Bregal Sagemount,B2C
+Matrixport,$1.05,6/1/2021,Singapore,,Financial Services,"Dragonfly Captial, Qiming Venture Partners, DST Global",B2B
+Shippo,$1,6/2/2021,United States,San Francisco,Industrials,"Version One Ventures, Uncork Capital, Bessemer Venture Partners",B2B
+Thirty Madison,$1,6/2/2021,United States,New York,Healthcare & Life Sciences,"Northzone Ventures, Maveron, Johnson & Johnson Innovation",B2B/B2C
+LetsGetChecked,$1,6/7/2021,Ireland,Dublin,Healthcare & Life Sciences,"Optum Ventures, Qiming Venture Partners, Transformation Capital",B2B/B2C
+EcoFlow,$1,6/10/2021,China,Shenzhen,Industrials,"Delian Capital, China International Capital Corporation, Sequoia Capital China",B2B
+Carro,$1,6/14/2021,Singapore,,Industrials,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",B2B
+Tractable,$1,6/16/2021,United Kingdom,London,Insurance,"Insight Partners, Ignition Partners, Georgian Partners",Unknown
+Xiaoe Tech,$1,6/15/2021,China,Shenzhen,Enterprise Tech,"GGV Capital, Hillhouse Capital Management, IDG Capital",B2B
+Bringg,$1,6/16/2021,Israel,Tel Aviv,Enterprise Tech,"Salesforce Ventures, next47, Pereg Ventures",B2B
+Simply,$1,6/21/2021,Israel,Tel Aviv,Media & Entertainment,"Genesis Partners, Aleph, Insight Partners",B2C
+Worldcoin,$1,6/29/2021,United States,San Francisco,Financial Services,"Day One Ventures, Coinbase Ventures, Andreessen Horowitz",B2B
+SmartAsset,$1,6/24/2021,United States,New York,Financial Services,"Javelin Venture Partners, TTV Capital, Peterson Ventures",B2B
+Morning Consult,$1,6/8/2021,United States,Washington DC,Enterprise Tech,"Advance Venture Partners, Susquehanna Growth Equity, Lupa Systems",B2B
+Visier,$1,6/29/2021,Canada,Vancouver,Enterprise Tech,"Foundation Capital, Summit Partners, Adams Street Partners",B2B
+ShipBob,$1,6/29/2021,United States,Chicago,Consumer & Retail,"Hyde Park Venture Partners, FundersClub. Bain Capital Ventures",B2C
+MobileCoin,$1.06,7/7/2021,United States,San Francisco,Financial Services,"General Catalyst, Future Ventures, AU21",B2B
+Amperity,$1,7/13/2021,United States,Seattle,Enterprise Tech,"Madrona Venture Group, Tiger Global Management, Madera Technology Partners",B2B
+Pantheon Systems,$1,7/13/2021,United States,San Francisco,Enterprise Tech,"Foundry Group, Scale Venture Partners, SoftBank Group",B2B
+Xiaoice,$1,7/12/2021,China,Beijing,Media & Entertainment,"NetEase Capital, Northern Light Venture Capital, Microsoft",B2C
+Caidya,$1,7/12/2021,China,Shanghai,Healthcare & Life Sciences,"Qiming Venture Partners, Vivo Capital, Sequoia Capital China",B2B/B2C
+Carson Group,$1,7/14/2021,United States,Lincoln,Financial Services,Bain Capital,B2B
+Bluecore,$1,8/5/2021,United States,New York,Consumer & Retail,"FirstMark Capital, Georgian Partners, Norwest Venture Partners",B2C
+Freshbooks,$1,8/10/2021,Canada,Toronto,Enterprise Tech,"Accomplice, Oak Investment Partners, Georgian Partners",B2B
+Snorkel AI,$1,8/9/2021,United States,Palo Alto,Enterprise Tech,"Greylock Partners, Google Ventures, BlackRock",B2B
+Gelato,$1,8/16/2021,Norway,Oslo,Consumer & Retail,"Greylock Partners, Google Ventures, BlackRock",B2C
+Maven,$1.7,8/17/2021,United States,New York,Healthcare & Life Sciences,"Female Founders Fund, Oak HC/FT Partners, Sequoia Capital",B2B/B2C
+PicsArt,$1,8/26/2021,United States,San Francisco,Media & Entertainment,"Sequoia Capital, DCM Ventures, Insight Partners",B2C
+1KMXC,$1,8/30/2021,China,Hangzhou,Industrials,"Goldman Sachs Asset Management, SDP Investment, Alibaba Group",B2B
+Cider,$1,9/2/2021,Hong Kong,,Consumer & Retail,"Andreessen Horowitz, DST Global, IDG Capital",B2C
+Berlin Brands Group,$1,9/1/2021,Germany,Berlin,Consumer & Retail,"Ardian, Bain Capital",B2C
+Agile Robots,$1,9/9/2021,Germany,Munich,Industrials,"Hillhouse Capital Management, Sequoia Capital China, Linear Venture",B2B
+Mammoth Biosciences,$1,9/9/2021,United States,Brisbane,Healthcare & Life Sciences,"NFX, Plum Alley, Mayfield",B2B/B2C
+Orchard,$1,9/9/2021,United States,New York,Financial Services,"Accomplice, Juxtapose, FirstMark Capital",B2B
+Xendit,$1,9/14/2021,Indonesia,Jakarta,Financial Services,"Accel, Y Combinator, Amasia",B2B
+TrueLayer,$1,9/21/2021,United Kingdom,London,Financial Services,"Anthemis, Connect Ventures, Northzone Ventures",B2B
+Assembly,$1,9/21/2021,United States,Culver City,Consumer & Retail,"Advent International, PSG, Providence Equity Partners",B2C
+PandaDoc,$1,9/22/2021,United States,San Francisco,Enterprise Tech,"Rembrandt Venture Partners, M12, Altos Ventures",B2B
+Keenon Robotics,$1,9/15/2021,China,Shanghai,Industrials,"Yunqi Partners, SoftBank Group, iVision Ventures",B2B
+HAYDON,$1,9/24/2021,China,Shanghai,Consumer & Retail,"Tencent Holdings, Hillhouse Capital Management",B2C
+Ninja Van,$1,9/27/2021,Singapore,,Consumer & Retail,"B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",B2C
+Vedantu,$1,9/29/2021,India,Bengaluru,Consumer & Retail,"Accel, Tiger Global Management, Omidyar Network",B2C
+Formation Bio,$1,9/30/2021,United States,New York,Healthcare & Life Sciences,"Sequoia Capital, Thrive Capital, Sound Ventures",B2B/B2C
+Ajaib,$1,10/4/2021,Indonesia,Jakarta,Financial Services,"Softbank Ventures Asia, Alpha JWC Ventures, Insignia Ventures Partners",B2B
+Licious,$1,10/5/2021,India,Bengaluru,Consumer & Retail,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",B2C
+Masterworks,$1,10/5/2021,United States,New York,Financial Services,"Left Lane Capital, Galaxy Interactive, Tru Arrow Partners",B2B
+Chronosphere,$1,10/7/2021,United States,New York,Enterprise Tech,"Greylock Partners, Lux Capital, General Atlantic",B2B
+Solo.io,$1,10/7/2021,United States,Cambridge,Enterprise Tech,"True Ventures, Altimeter Capital, Redpoint Ventures",B2B
+Savage X Fenty,$1,2/10/2021,United States,El Segundo,Consumer & Retail,"Speedinvest, Valar Ventures, Uniqa Ventures",B2C
+Swile,$1,10/11/2021,France,Montpellier,Enterprise Tech,"Index Ventures, IDInvest Partners, Daphni",B2B
+MobiKwik,$1,10/13/2021,India,Gurugram,Financial Services,"Sequoia Capital India, The Times Group, GMO VenturePartners",B2B
+Weights & Biases,$1.25,10/13/2021,United States,San Francisco,Enterprise Tech,"Coatue Management, Insight Partners, Trinity Ventures",B2B
+Zopa,$1,10/19/2021,United Kingdom,London,Financial Services,"IAG Capital Partners, Augmentum Fintech, Northzone Ventures",B2B
+Dental Monitoring,$1,10/21/2021,France,Paris,Healthcare & Life Sciences,"Vitruvian Partners, Merieux Equity Partners, Straumann",B2B/B2C
+CargoX,$1,10/21/2021,Brazil,Sao Paulo,Industrials,"Valor Capital Group, Lightrock, Softbank Group",B2B
+Fabric,$1,10/26/2021,United States,New York,Consumer & Retail,"Innovation Endeavors, Aleph, Temasek",B2C
+Augury,$1,10/26/2021,United States,New York,Industrials,"Lerer Hippeau, Munich Re Ventures, Eclipse Ventures",B2B
+Moka,$1,11/2/2021,China,Beijing,Enterprise Tech,"GGV Capital, GSR Ventures, FreesFund",B2B
+Tezign,$1,11/2/2021,China,Shanghai,Enterprise Tech,"Sequoia Capital China, Linear Venture, Hearst Ventures",B2B
+Vagaro,$1,11/3/2021,United States,Dublin,Consumer & Retail,FTV Capital,B2C
+IGAWorks,$1,11/8/2021,South Korea,Seoul,Enterprise Tech,"Korea Investment Private Equity, Atinum Investment, Korea Investment Partners",B2B
+Contrast Security,$1,11/9/2021,United States,Los Altos,Enterprise Tech,"Acero Capital, General Catalyst, M12",B2B
+Wrapbook,$1,11/10/2021,United States,New York,Media & Entertainment,"Equal Ventures, Uncork Capital, Andreessen Horowitz",B2C
+Gaussian Robotics,$1.10,11/10/2021,China,Shanghai,Industrials,"BlueRun Ventures, Grand Flight Investment, Meituan Dianping",B2B
+Mensa Brands,$1,11/16/2021,India,Bengaluru,Consumer & Retail,"Accel, Falcon Edge Capital, Norwest Venture Partners",B2C
+PLACE,$1,11/17/2021,United States,Bellingham,Financial Services,"Goldman Sachs Asset Management, 3L",B2B
+Stytch,$1,11/18/2021,United States,San Francisco,Enterprise Tech,"Index Ventures, Benchmark, Thrive Capital",B2B
+Owkin,$1,11/18/2021,United States,New York,Healthcare & Life Sciences,"Google Ventures, Cathay Innovation, NJF Capital",B2B/B2C
+Expel,$1,11/18/2021,United States,Herndon,Enterprise Tech,"Paladin Capital Group, Greycroft, Scale Venture Partners",B2B
+NoBroker,$1,11/23/2021,India,Bengaluru,Financial Services,"General Atlantic, Elevation Capital, BEENEXT",B2B
+Lessen,$1,11/30/2021,United States,Scottsdale,Financial Services,"Khosla Ventures, General Catalyst, Navitas Capital",B2B
+Clara,$1,12/6/2021,Mexico,Mexico City,Financial Services,"DST Global, General Catalyst, Monashees+",B2B
+YipitData,$1,12/6/2021,United States,New York,Enterprise Tech,"RRE Ventures+, Highland Capital Partners, The Carlyle Group",B2B
+Anyscale,$1,12/7/2021,United States,Berkeley,Enterprise Tech,"Andreessen Horowitz, Intel Capital, Foundation Capital",B2B
+Iodine Software,$1,12/1/2021,United States,Austin,Healthcare & Life Sciences,"Advent International, Bain Capital Ventures, Silversmith Capital Partners",B2B/B2C
+ReliaQuest,$1,12/1/2021,United States,Tampa,Enterprise Tech,"KKR, FTV Capital, Ten Eleven Ventures",B2B
+Pet Circle,$1,12/6/2021,Australia,Alexandria,Consumer & Retail,"Prysm Capital, Baillie Gifford & Co., TDM Growth Partners",B2C
+Nature's Fynd,$1,7/19/2021,United States,Chicago,Consumer & Retail,"Danone Manifesto Ventures, 1955 Capital, Breakthrough Energy Ventures",B2C
+Lydia,$1,12/8/2021,France,Paris,Financial Services,"NewAlpha, XAnge Private Equity, Tencent Holdings",B2B
+SellerX,$1,12/9/2021,Germany,Berlin,Consumer & Retail,"Cherry Ventures, Felix Capital, 83North",B2C
+SnapLogic,$1,12/13/2021,United States,San Mateo,Enterprise Tech,"Andreessen Horowitz, Triangle Peak Partners, Ignition Partners",B2B
+Cadence,$1,12/14/2021,United States,New York,Healthcare & Life Sciences,"Thrive Capital, General Catalyst, Coatue Management",B2B/B2C
+Rothy's,$1,12/21/2021,United States,San Francisco,Consumer & Retail,"Alpargatas, GS Growth, Lightspeed Venture Partners",B2C
+VOI,$1,12/21/2021,Sweden,Stockholm,Industrials,"Vostok New Ventures, The Raine Group, Balderton Capital",B2B
+Haomo.AI,$1,12/22/2021,China,Beijing,Industrials,"Qualcomm Ventures, Nine Intelligence Capital, Hillhouse Capital Management",B2B
+Kopi Kenangan,$1,12/27/2021,Indonesia,Jakarta,Consumer & Retail,"Horizons Ventures, Sequoia Capital India, Alpha JWC Ventures",B2C
+InFarm,$1,12/16/2021,Germany,Berlin,Industrials,"Atomico, Hanaco Venture Capital, TriplePoint Capital",B2B
+ONE,$1.35,12/8/2021,Singapore,,Media & Entertainment,"Temasek, Guggenheim Investments, Qatar Investment Authority",B2C
+Fractal Analytics,$1,1/5/2022,India,Mumbai,Enterprise Tech,"TPG Capital, Apax Partners, TA Associates",B2B
+Assent,$1,1/6/2022,Canada,Ottawa,Industrials,"Vista Equity Partners, Warburg Pincus, First Ascent Ventures",B2B
+Pentera,$1,1/11/2022,Israel,Petah Tikva,Enterprise Tech,"AWZ Ventures, Blackstone, Insight Partners",B2B
+Darwinbox,$1,1/25/2022,India,Hyderabad,Enterprise Tech,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",B2B
+Minio,$1,1/26/2022,United States,Palo Alto,Enterprise Tech,"General Catalyst, Nexus Venture Partners, Dell Technologies Capital",B2B
+Esusu,$1,1/27/2022,United States,New York,Financial Services,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",B2B
+Betterfly,$1,2/1/2022,Chile,Santiago,Enterprise Tech,"QED Investors, DST Global, Endeavor",B2B
+Dune Analytics,$1,2/2/2022,Norway,Oslo,Enterprise Tech,"Multicoin Capital, Coatue Management, Dragonfly Capital Partners",B2B
+Scandit,$1,2/9/2022,Switzerland,Zurich,Enterprise Tech,"Atomico, NGP Capital, Google Ventures",B2B
+Payhawk,$1,2/14/2022,United Kingdom,London,Enterprise Tech,"Earlybird Venture Capital, Eleven Ventures, QED Investors",B2B
+Watershed,$1,2/8/2022,United States,San Francisco,Enterprise Tech,"Kleiner Perkins Caufield & Byers, Sequoia Capital",B2B
+Axelar,$1,2/15/2022,Canada,Waterloo,Enterprise Tech,"Lemniscap VC, North Island Ventures, Polychain Capital",B2B
+CHEQ,$1,2/22/2022,United States,New York,Enterprise Tech,"Battery Ventures, Tiger Global Management, Hanaco Ventures",B2B
+Hasura,$1,2/22/2022,India,Bengaluru,Enterprise Tech,"Nexus Venture Partners, Vertex Ventures, STRIVE",B2B
+Timescale,$1,2/22/2022,United States,New York,Enterprise Tech,"New Enterprise Associates, Benchmark, Two Sigma Ventures",B2B
+Scalapay,$1,2/23/2022,Italy,Milan,Financial Services,"Fasanara Capital, Tiger Global Management, Baleen Capital",B2B
+Omada Health,$1,2/23/2022,United States,San Francisco,Healthcare & Life Sciences,"U.S. Venture Partners, dRx Capital, Andreessen Horowitz",B2B/B2C
+BlueVoyant,$1,2/23/2022,United States,New York,Enterprise Tech,"8VC, Liberty Strategic Capital, Eden Global Partners",B2B
+Vendr,$1,2/24/2022,United States,Boston,Enterprise Tech,"Craft Ventures, F-Prime Capital, Sound Ventures",B2B
+Gauntlet Networks,$1,3/7/2022,United States,New York,Financial Services,"Polychain Capital, Paradigm, Ribbit Capital",B2B
+Aptos,$1,3/15/2022,United States,Palo Alto,Enterprise Tech,"Andreessen Horowitz, Coinbase Ventures, Tiger Global Management",B2B
+Glia,$1,3/21/2022,United States,New York,Enterprise Tech,"Wildcat Capital Management, Insight Partners, Tola Capital",B2B
+CommerceIQ,$1,3/21/2022,United States,Palo Alto,Consumer & Retail,"Trinity Ventures, Madrona Venture Group, Shasta Ventures",B2C
+Tarana Wireless,$1,3/23/2022,United States,Milpitas,Industrials,"Prime Movers Lab, Khosla Ventures, I Squared Capital",B2B
+FLASH,$1,3/16/2022,United States,Austin,Industrials,"L Catterton, Trellis Partners, Vista Equity Partners",B2B
+Electric,$1,3/29/2022,United States,New York,Enterprise Tech,"Primary Venture Partners, Bessemer Venture Partners, Harmonic Growth Partners",B2B
+BostonGene,$1,4/6/2022,United States,Waltham,Healthcare & Life Sciences,"Japan Industrial Partners, Impact Investment Capital, NEC",B2B/B2C
+Grover,$1,4/7/2022,Germany,Berlin,Consumer & Retail,"Varengold Bank, Circularity Capital, Coparion",B2C
+Genies,$1,4/12/2022,United States,Venice,Media & Entertainment,"New Enterprise Associates, Tull Investment Group, Silver Lake",B2C
+NexHealth,$1,4/21/2022,United States,San Francisco,Healthcare & Life Sciences,"iSeed Ventures, Point Nine Capital, Buckley Ventures",B2B/B2C
+UPSIDE Foods,$1,4/21/2022,United States,Berkeley,Consumer & Retail,"Battery Ventures, Adams Street Partners, Coatue Management",B2C
+Factorial,$1,10/11/2022,Spain,Barcelona,Enterprise Tech,"K Fund, Creandum, CRV",B2B
+Divergent 3D,$1,4/25/2022,United States,Torrance,Industrials,"Hedosophia, Horizons Ventures, Alumni Ventures Group",B2B
+Taxfix,$1,4/28/2022,Germany,Berlin,Financial Services,"Valar Ventures, Index Ventures, Creandum",B2B
+Open,$1,5/2/2022,India,Bengaluru,Financial Services,"3one4 Capital Partners, Tiger Global Management, Temasek",B2B
+Opn,$1,5/9/2022,Japan,Tokyo,Financial Services,"Sinar Mas Digital Ventures, JIC Venture Growth Investments, Golden Gate Ventures",B2B
+Remarkable,$1,5/10/2022,Norway,Oslo,Consumer & Retail,Spark Capital,B2C
+Habi,$1,5/11/2022,Colombia,Bogota,Financial Services,"Homebrew, Inspired Capital, Tiger Global Management",B2B
+CareBridge,$1,6/8/2022,United States,Nashville,Healthcare & Life Sciences,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",B2B/B2C
+Immuta,$1,6/8/2022,United States,Boston,Enterprise Tech,"DFJ Growth Fund, Dell Technologies Capital, Ten Eleven Ventures",B2B
+JupiterOne,$1,6/2/2022,United States,Morrisville,Enterprise Tech,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",B2B
+Vayyar,$1,6/6/2022,Israel,Yehud,Industrials,"Battery Ventures, Bessemer Venture Partners, MoreVC",B2B
+LeadSquared,$1,6/21/2022,India,Bengaluru,Enterprise Tech,"Gaja Capital Partners, Stakeboat Capital, WestBridge Capital",B2B
+FourKites,$1,6/21/2022,United States,Chicago,Enterprise Tech,"Hyde Park Venture Partners, Bain Capital Ventures, Hyde Park Angels",B2B
+VulcanForms,$1,7/5/2022,United States,Burlington,Industrials,"Eclipse Ventures, D1 Capital Partners, Industry Ventures",B2B
+SingleStore,$1,7/12/2022,United States,San Francisco,Enterprise Tech,"Google Ventures, Accel, Data Collective",B2B
+Unstoppable Domains,$1,7/27/2022,United States,Las Vegas,Media & Entertainment,"Boost VC, Draper Associates, Gaingels",B2C
